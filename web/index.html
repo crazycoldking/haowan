@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub 好玩项目 - 每日发现</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>🚀 GitHub 好玩项目</h1>
+            <p class="subtitle">每日发现 GitHub 上最有趣、最有潜力的开源项目</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <!-- 过滤和搜索 -->
+        <section class="filters">
+            <div class="filter-group">
+                <label for="dateSelect">日期:</label>
+                <select id="dateSelect">
+                    <option value="">加载中...</option>
+                </select>
+            </div>
+            
+            <div class="filter-group">
+                <label for="languageFilter">语言:</label>
+                <select id="languageFilter">
+                    <option value="all">全部</option>
+                </select>
+            </div>
+            
+            <div class="filter-group">
+                <label for="searchInput">搜索:</label>
+                <input type="text" id="searchInput" placeholder="搜索项目名称或描述...">
+            </div>
+
+            <div class="filter-group">
+                <button id="refreshBtn" class="btn-refresh">🔄 刷新</button>
+            </div>
+        </section>
+
+        <!-- 统计信息 -->
+        <section class="stats" id="stats">
+            <div class="stat-card">
+                <h3 id="totalCount">-</h3>
+                <p>项目总数</p>
+            </div>
+            <div class="stat-card">
+                <h3 id="topLanguage">-</h3>
+                <p>最热门语言</p>
+            </div>
+            <div class="stat-card">
+                <h3 id="totalStars">-</h3>
+                <p>总 Star 数</p>
+            </div>
+            <div class="stat-card">
+                <h3 id="avgStars">-</h3>
+                <p>平均 Star 数</p>
+            </div>
+        </section>
+
+        <!-- 项目列表 -->
+        <section class="projects" id="projects">
+            <div class="loading">加载中...</div>
+        </section>
+
+        <!-- 分页 -->
+        <section class="pagination" id="pagination" style="display: none;">
+            <button id="prevBtn" class="btn-page">← 上一页</button>
+            <span id="pageInfo">第 1 页</span>
+            <button id="nextBtn" class="btn-page">下一页 →</button>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>
+                数据来源: <a href="https://github.com" target="_blank">GitHub API</a> | 
+                项目地址: <a href="https://github.com/crazycoldking/haowan" target="_blank">GitHub</a>
+            </p>
+            <p class="update-time" id="updateTime">最后更新: -</p>
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>

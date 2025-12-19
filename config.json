@@ -1,0 +1,43 @@
+{
+  "github": {
+    "search_days": 7,
+    "min_stars": 10,
+    "max_results_per_language": 50,
+    "languages": [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "Go",
+      "Rust",
+      "Java",
+      "C++",
+      "C#",
+      "Ruby",
+      "PHP",
+      "Swift",
+      "Kotlin",
+      "Dart",
+      "Vue",
+      "All"
+    ],
+    "topics": [
+      "machine-learning",
+      "web-development",
+      "mobile",
+      "devops",
+      "security",
+      "ai",
+      "blockchain"
+    ]
+  },
+  "ranking": {
+    "star_weight": 0.4,
+    "growth_rate_weight": 0.3,
+    "freshness_weight": 0.2,
+    "topic_relevance_weight": 0.1
+  },
+  "output": {
+    "max_daily_projects": 100,
+    "history_retention_days": 30
+  }
+}

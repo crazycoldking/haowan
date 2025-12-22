@@ -139,7 +139,7 @@ class GitHubCollector:
             'updated_at': api_data['updated_at'],
             'pushed_at': api_data.get('pushed_at', api_data['updated_at']),
             'homepage': api_data.get('homepage', ''),
-            'license': api_data.get('license', {}).get('name', 'None'),
+            'license': (api_data.get('license') or {}).get('name', 'None'),
             'days_since_creation': days_since_creation,
             'stars_per_day': round(api_data['stargazers_count'] / days_since_creation, 2)
         }

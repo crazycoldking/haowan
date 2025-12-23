@@ -1,6 +1,37 @@
 {
   "dates": [
     {
+      "date": "2025-12-23",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 32,
+        "TypeScript": 18,
+        "JavaScript": 14,
+        "Rust": 7,
+        "Swift": 5,
+        "null": 4,
+        "C#": 3,
+        "C++": 3,
+        "Go": 3,
+        "Kotlin": 3,
+        "C": 2,
+        "Solidity": 1,
+        "Mermaid": 1,
+        "HTML": 1,
+        "Jupyter Notebook": 1,
+        "Zig": 1,
+        "Vue": 1
+      },
+      "top_repo": {
+        "name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+        "stars": 681,
+        "score": 76.62
+      },
+      "average_stars": 168.87,
+      "total_stars": 16887
+    },
+    {
       "date": "2025-12-19",
       "total_count": 5,
       "top_language": "Python",

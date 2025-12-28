@@ -1,6 +1,36 @@
 {
   "dates": [
     {
+      "date": "2025-12-28",
+      "total_count": 100,
+      "top_language": "TypeScript",
+      "language_distribution": {
+        "TypeScript": 29,
+        "Python": 24,
+        "JavaScript": 13,
+        "null": 6,
+        "Go": 6,
+        "Swift": 5,
+        "Kotlin": 3,
+        "C": 2,
+        "Shell": 2,
+        "Java": 2,
+        "C++": 2,
+        "Vue": 2,
+        "HTML": 1,
+        "Lua": 1,
+        "Rust": 1,
+        "C#": 1
+      },
+      "top_repo": {
+        "name": "bellard/mquickjs",
+        "stars": 4431,
+        "score": 79.02
+      },
+      "average_stars": 178.44,
+      "total_stars": 17844
+    },
+    {
       "date": "2025-12-27",
       "total_count": 100,
       "top_language": "TypeScript",

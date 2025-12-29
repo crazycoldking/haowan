@@ -1,6 +1,36 @@
 {
   "dates": [
     {
+      "date": "2025-12-29",
+      "total_count": 100,
+      "top_language": "TypeScript",
+      "language_distribution": {
+        "TypeScript": 26,
+        "Python": 25,
+        "JavaScript": 9,
+        "null": 6,
+        "Swift": 6,
+        "Rust": 5,
+        "Go": 4,
+        "C++": 4,
+        "Kotlin": 3,
+        "Java": 3,
+        "Vue": 3,
+        "Shell": 2,
+        "C": 1,
+        "C#": 1,
+        "Lua": 1,
+        "PHP": 1
+      },
+      "top_repo": {
+        "name": "technomancer702/nodecast-tv",
+        "stars": 364,
+        "score": 71.49
+      },
+      "average_stars": 143.9,
+      "total_stars": 14390
+    },
+    {
       "date": "2025-12-28",
       "total_count": 100,
       "top_language": "TypeScript",

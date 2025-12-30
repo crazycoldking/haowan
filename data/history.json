@@ -1,6 +1,38 @@
 {
   "dates": [
     {
+      "date": "2025-12-30",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 29,
+        "TypeScript": 25,
+        "JavaScript": 9,
+        "Swift": 6,
+        "Rust": 5,
+        "Go": 5,
+        "null": 4,
+        "Kotlin": 3,
+        "Java": 3,
+        "C++": 2,
+        "Vue": 2,
+        "MDX": 1,
+        "TeX": 1,
+        "Shell": 1,
+        "Svelte": 1,
+        "Dart": 1,
+        "C": 1,
+        "PHP": 1
+      },
+      "top_repo": {
+        "name": "liuxiaomingskm/datashield-lightweight-labs",
+        "stars": 568,
+        "score": 75.13
+      },
+      "average_stars": 160.13,
+      "total_stars": 16013
+    },
+    {
       "date": "2025-12-29",
       "total_count": 100,
       "top_language": "TypeScript",

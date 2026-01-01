@@ -1,6 +1,41 @@
 {
   "dates": [
     {
+      "date": "2026-01-01",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 28,
+        "TypeScript": 21,
+        "JavaScript": 12,
+        "Go": 6,
+        "Rust": 5,
+        "null": 5,
+        "Swift": 5,
+        "Kotlin": 3,
+        "Shell": 2,
+        "Java": 2,
+        "Zig": 1,
+        "MDX": 1,
+        "HTML": 1,
+        "C#": 1,
+        "Svelte": 1,
+        "TeX": 1,
+        "C": 1,
+        "Dart": 1,
+        "Vue": 1,
+        "Ruby": 1,
+        "C++": 1
+      },
+      "top_repo": {
+        "name": "buyukakyuz/corroded",
+        "stars": 823,
+        "score": 73.44
+      },
+      "average_stars": 159.57,
+      "total_stars": 15957
+    },
+    {
       "date": "2025-12-31",
       "total_count": 100,
       "top_language": "Python",

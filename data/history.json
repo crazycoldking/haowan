@@ -1,6 +1,37 @@
 {
   "dates": [
     {
+      "date": "2026-01-02",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 28,
+        "TypeScript": 26,
+        "null": 8,
+        "JavaScript": 8,
+        "Swift": 7,
+        "Rust": 6,
+        "Go": 5,
+        "Zig": 2,
+        "Kotlin": 2,
+        "C#": 1,
+        "MDX": 1,
+        "HTML": 1,
+        "Svelte": 1,
+        "TeX": 1,
+        "Shell": 1,
+        "Dart": 1,
+        "Java": 1
+      },
+      "top_repo": {
+        "name": "IQuestLab/IQuest-Coder-V1",
+        "stars": 476,
+        "score": 73.68
+      },
+      "average_stars": 183.08,
+      "total_stars": 18308
+    },
+    {
       "date": "2026-01-01",
       "total_count": 100,
       "top_language": "Python",

@@ -1,6 +1,36 @@
 {
   "dates": [
     {
+      "date": "2026-01-04",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 29,
+        "TypeScript": 20,
+        "JavaScript": 14,
+        "Rust": 8,
+        "null": 7,
+        "Swift": 4,
+        "Go": 4,
+        "C#": 3,
+        "HTML": 2,
+        "Dart": 2,
+        "Java": 2,
+        "Zig": 1,
+        "Cuda": 1,
+        "Ruby": 1,
+        "C++": 1,
+        "Vue": 1
+      },
+      "top_repo": {
+        "name": "CloudAI-X/claude-workflow-v2",
+        "stars": 864,
+        "score": 73.84
+      },
+      "average_stars": 175.92,
+      "total_stars": 17592
+    },
+    {
       "date": "2026-01-03",
       "total_count": 100,
       "top_language": "Python",

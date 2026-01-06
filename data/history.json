@@ -1,6 +1,35 @@
 {
   "dates": [
     {
+      "date": "2026-01-06",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 27,
+        "TypeScript": 23,
+        "JavaScript": 12,
+        "null": 9,
+        "Rust": 6,
+        "Dart": 4,
+        "HTML": 3,
+        "C#": 3,
+        "C++": 3,
+        "Swift": 3,
+        "Go": 2,
+        "Java": 2,
+        "Shell": 1,
+        "C": 1,
+        "Cuda": 1
+      },
+      "top_repo": {
+        "name": "huseyinbabal/taws",
+        "stars": 1146,
+        "score": 80.29
+      },
+      "average_stars": 184.67,
+      "total_stars": 18467
+    },
+    {
       "date": "2026-01-05",
       "total_count": 100,
       "top_language": "Python",

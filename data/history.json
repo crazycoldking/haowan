@@ -1,6 +1,36 @@
 {
   "dates": [
     {
+      "date": "2026-01-08",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 29,
+        "TypeScript": 25,
+        "JavaScript": 10,
+        "null": 7,
+        "Rust": 7,
+        "Shell": 3,
+        "Go": 3,
+        "Vue": 3,
+        "Swift": 2,
+        "Dart": 2,
+        "HTML": 2,
+        "C": 2,
+        "Java": 2,
+        "C++": 1,
+        "C#": 1,
+        "Kotlin": 1
+      },
+      "top_repo": {
+        "name": "OthmanAdi/planning-with-files",
+        "stars": 4056,
+        "score": 80.48
+      },
+      "average_stars": 274.35,
+      "total_stars": 27435
+    },
+    {
       "date": "2026-01-07",
       "total_count": 100,
       "top_language": "Python",

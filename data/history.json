@@ -1,6 +1,34 @@
 {
   "dates": [
     {
+      "date": "2026-01-12",
+      "total_count": 100,
+      "top_language": "TypeScript",
+      "language_distribution": {
+        "TypeScript": 30,
+        "Python": 23,
+        "Java": 9,
+        "null": 7,
+        "JavaScript": 5,
+        "C++": 5,
+        "Rust": 5,
+        "Go": 4,
+        "Shell": 3,
+        "Swift": 3,
+        "C": 2,
+        "C#": 2,
+        "Solidity": 1,
+        "Dart": 1
+      },
+      "top_repo": {
+        "name": "ChrisWiles/claude-code-showcase",
+        "stars": 3972,
+        "score": 78.13
+      },
+      "average_stars": 296.95,
+      "total_stars": 29695
+    },
+    {
       "date": "2026-01-11",
       "total_count": 100,
       "top_language": "TypeScript",

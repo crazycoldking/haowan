@@ -1,6 +1,35 @@
 {
   "dates": [
     {
+      "date": "2026-01-13",
+      "total_count": 100,
+      "top_language": "TypeScript",
+      "language_distribution": {
+        "TypeScript": 35,
+        "Python": 22,
+        "null": 7,
+        "Rust": 7,
+        "C++": 6,
+        "JavaScript": 5,
+        "C": 3,
+        "Swift": 3,
+        "Go": 3,
+        "Shell": 2,
+        "Kotlin": 2,
+        "C#": 2,
+        "Java": 1,
+        "Solidity": 1,
+        "Dart": 1
+      },
+      "top_repo": {
+        "name": "vercel-labs/agent-browser",
+        "stars": 1958,
+        "score": 82.36
+      },
+      "average_stars": 291.44,
+      "total_stars": 29144
+    },
+    {
       "date": "2026-01-12",
       "total_count": 100,
       "top_language": "TypeScript",

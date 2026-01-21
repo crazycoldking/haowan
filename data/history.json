@@ -1,6 +1,35 @@
 {
   "dates": [
     {
+      "date": "2026-01-21",
+      "total_count": 100,
+      "top_language": "TypeScript",
+      "language_distribution": {
+        "TypeScript": 29,
+        "Python": 27,
+        "Rust": 9,
+        "null": 8,
+        "JavaScript": 7,
+        "Shell": 4,
+        "Go": 3,
+        "C": 2,
+        "Swift": 2,
+        "HTML": 2,
+        "C#": 2,
+        "Vue": 2,
+        "Kotlin": 1,
+        "PowerShell": 1,
+        "C++": 1
+      },
+      "top_repo": {
+        "name": "xai-org/x-algorithm",
+        "stars": 7192,
+        "score": 87.38
+      },
+      "average_stars": 417.18,
+      "total_stars": 41718
+    },
+    {
       "date": "2026-01-20",
       "total_count": 100,
       "top_language": "Python",

@@ -1,6 +1,35 @@
 {
   "dates": [
     {
+      "date": "2026-01-27",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 33,
+        "TypeScript": 29,
+        "null": 9,
+        "JavaScript": 8,
+        "Rust": 5,
+        "Swift": 3,
+        "Go": 3,
+        "Java": 3,
+        "C": 1,
+        "Shell": 1,
+        "PowerShell": 1,
+        "HTML": 1,
+        "Dart": 1,
+        "PHP": 1,
+        "Vue": 1
+      },
+      "top_repo": {
+        "name": "QwenLM/Qwen3-TTS",
+        "stars": 5007,
+        "score": 80.02
+      },
+      "average_stars": 253.19,
+      "total_stars": 25319
+    },
+    {
       "date": "2026-01-26",
       "total_count": 100,
       "top_language": "Python",

@@ -1,6 +1,33 @@
 {
   "dates": [
     {
+      "date": "2026-01-29",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 28,
+        "TypeScript": 26,
+        "JavaScript": 14,
+        "null": 8,
+        "Rust": 8,
+        "Swift": 4,
+        "HTML": 3,
+        "Shell": 2,
+        "Go": 2,
+        "C++": 2,
+        "Kotlin": 1,
+        "C": 1,
+        "PHP": 1
+      },
+      "top_repo": {
+        "name": "forrestchang/andrej-karpathy-skills",
+        "stars": 1699,
+        "score": 81.81
+      },
+      "average_stars": 242.47,
+      "total_stars": 24247
+    },
+    {
       "date": "2026-01-28",
       "total_count": 100,
       "top_language": "Python",

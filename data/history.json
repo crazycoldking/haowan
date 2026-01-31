@@ -1,6 +1,34 @@
 {
   "dates": [
     {
+      "date": "2026-01-31",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 29,
+        "TypeScript": 26,
+        "JavaScript": 13,
+        "Rust": 10,
+        "null": 8,
+        "Shell": 4,
+        "Kotlin": 2,
+        "Go": 2,
+        "Vue": 1,
+        "C#": 1,
+        "HTML": 1,
+        "Java": 1,
+        "C": 1,
+        "Swift": 1
+      },
+      "top_repo": {
+        "name": "lukilabs/beautiful-mermaid",
+        "stars": 3790,
+        "score": 83.18
+      },
+      "average_stars": 383.77,
+      "total_stars": 38377
+    },
+    {
       "date": "2026-01-30",
       "total_count": 100,
       "top_language": "Python",

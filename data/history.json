@@ -1,6 +1,33 @@
 {
   "dates": [
     {
+      "date": "2026-02-07",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 28,
+        "TypeScript": 22,
+        "JavaScript": 21,
+        "null": 5,
+        "Rust": 4,
+        "Go": 4,
+        "C": 3,
+        "Shell": 3,
+        "C++": 3,
+        "Swift": 3,
+        "HTML": 2,
+        "Java": 1,
+        "Dart": 1
+      },
+      "top_repo": {
+        "name": "HKUDS/nanobot",
+        "stars": 10993,
+        "score": 83.05
+      },
+      "average_stars": 303.15,
+      "total_stars": 30315
+    },
+    {
       "date": "2026-02-06",
       "total_count": 100,
       "top_language": "TypeScript",

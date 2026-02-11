@@ -1,6 +1,34 @@
 {
   "dates": [
     {
+      "date": "2026-02-11",
+      "total_count": 100,
+      "top_language": "TypeScript",
+      "language_distribution": {
+        "TypeScript": 27,
+        "Python": 22,
+        "null": 13,
+        "Go": 9,
+        "JavaScript": 7,
+        "Rust": 6,
+        "Swift": 4,
+        "C++": 4,
+        "HTML": 2,
+        "C#": 2,
+        "Nushell": 1,
+        "C": 1,
+        "Jupyter Notebook": 1,
+        "Java": 1
+      },
+      "top_repo": {
+        "name": "mitchellh/vouch",
+        "stars": 2476,
+        "score": 74.25
+      },
+      "average_stars": 260.33,
+      "total_stars": 26033
+    },
+    {
       "date": "2026-02-10",
       "total_count": 100,
       "top_language": "Python",

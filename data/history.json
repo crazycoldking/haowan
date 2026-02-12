@@ -1,6 +1,35 @@
 {
   "dates": [
     {
+      "date": "2026-02-12",
+      "total_count": 100,
+      "top_language": "TypeScript",
+      "language_distribution": {
+        "TypeScript": 25,
+        "Python": 20,
+        "null": 12,
+        "JavaScript": 10,
+        "Go": 8,
+        "Swift": 5,
+        "Rust": 5,
+        "C++": 4,
+        "HTML": 3,
+        "Kotlin": 2,
+        "C#": 2,
+        "Shell": 1,
+        "Jupyter Notebook": 1,
+        "Java": 1,
+        "PHP": 1
+      },
+      "top_repo": {
+        "name": "promptpirate-x/discord-id-bypass-tool",
+        "stars": 626,
+        "score": 75.93
+      },
+      "average_stars": 259.09,
+      "total_stars": 25909
+    },
+    {
       "date": "2026-02-11",
       "total_count": 100,
       "top_language": "TypeScript",

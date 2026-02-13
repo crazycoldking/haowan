@@ -1,6 +1,36 @@
 {
   "dates": [
     {
+      "date": "2026-02-13",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 23,
+        "TypeScript": 21,
+        "null": 11,
+        "JavaScript": 9,
+        "Rust": 8,
+        "Go": 5,
+        "HTML": 4,
+        "Swift": 4,
+        "C++": 4,
+        "Kotlin": 3,
+        "C#": 3,
+        "Shell": 1,
+        "Jupyter Notebook": 1,
+        "PHP": 1,
+        "Dart": 1,
+        "Java": 1
+      },
+      "top_repo": {
+        "name": "xyzeva/k-id-age-verifier",
+        "stars": 1067,
+        "score": 80.01
+      },
+      "average_stars": 288.38,
+      "total_stars": 28838
+    },
+    {
       "date": "2026-02-12",
       "total_count": 100,
       "top_language": "TypeScript",

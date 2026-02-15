@@ -1,6 +1,37 @@
 {
   "dates": [
     {
+      "date": "2026-02-15",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 31,
+        "TypeScript": 21,
+        "null": 11,
+        "Rust": 8,
+        "JavaScript": 6,
+        "Go": 4,
+        "C++": 4,
+        "HTML": 3,
+        "Shell": 2,
+        "Swift": 2,
+        "Kotlin": 2,
+        "C#": 1,
+        "C": 1,
+        "Jupyter Notebook": 1,
+        "Vue": 1,
+        "Dart": 1,
+        "Java": 1
+      },
+      "top_repo": {
+        "name": "theonlyhennygod/zeroclaw",
+        "stars": 883,
+        "score": 78.75
+      },
+      "average_stars": 243.75,
+      "total_stars": 24375
+    },
+    {
       "date": "2026-02-14",
       "total_count": 100,
       "top_language": "Python",

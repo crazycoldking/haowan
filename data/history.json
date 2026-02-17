@@ -1,6 +1,36 @@
 {
   "dates": [
     {
+      "date": "2026-02-17",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 33,
+        "TypeScript": 19,
+        "JavaScript": 12,
+        "Rust": 9,
+        "Go": 6,
+        "null": 6,
+        "C": 3,
+        "Shell": 2,
+        "Swift": 2,
+        "C++": 2,
+        "PowerShell": 1,
+        "C#": 1,
+        "Objective-C": 1,
+        "HTML": 1,
+        "Vue": 1,
+        "PHP": 1
+      },
+      "top_repo": {
+        "name": "zeroclaw-labs/zeroclaw",
+        "stars": 7175,
+        "score": 84.09
+      },
+      "average_stars": 311.22,
+      "total_stars": 31122
+    },
+    {
       "date": "2026-02-16",
       "total_count": 100,
       "top_language": "Python",

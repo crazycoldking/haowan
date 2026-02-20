@@ -1,6 +1,38 @@
 {
   "dates": [
     {
+      "date": "2026-02-20",
+      "total_count": 100,
+      "top_language": "TypeScript",
+      "language_distribution": {
+        "TypeScript": 27,
+        "Python": 23,
+        "JavaScript": 12,
+        "Rust": 7,
+        "Go": 5,
+        "C": 4,
+        "Swift": 4,
+        "HTML": 3,
+        "null": 3,
+        "Zig": 2,
+        "Shell": 2,
+        "C++": 2,
+        "PowerShell": 1,
+        "Kotlin": 1,
+        "Svelte": 1,
+        "Dart": 1,
+        "C#": 1,
+        "Objective-C": 1
+      },
+      "top_repo": {
+        "name": "HKUDS/ClawWork",
+        "stars": 3885,
+        "score": 80.19
+      },
+      "average_stars": 304.39,
+      "total_stars": 30439
+    },
+    {
       "date": "2026-02-19",
       "total_count": 100,
       "top_language": "Python",

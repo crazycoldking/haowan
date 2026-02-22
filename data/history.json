@@ -1,6 +1,39 @@
 {
   "dates": [
     {
+      "date": "2026-02-22",
+      "total_count": 100,
+      "top_language": "TypeScript",
+      "language_distribution": {
+        "TypeScript": 23,
+        "Python": 19,
+        "JavaScript": 12,
+        "null": 6,
+        "Go": 6,
+        "Rust": 6,
+        "Swift": 5,
+        "HTML": 4,
+        "C++": 4,
+        "C": 3,
+        "Zig": 2,
+        "Shell": 2,
+        "Java": 2,
+        "Kotlin": 1,
+        "Dockerfile": 1,
+        "Svelte": 1,
+        "Jupyter Notebook": 1,
+        "Dart": 1,
+        "Vue": 1
+      },
+      "top_repo": {
+        "name": "nicobailon/visual-explainer",
+        "stars": 2212,
+        "score": 73.33
+      },
+      "average_stars": 193.6,
+      "total_stars": 19360
+    },
+    {
       "date": "2026-02-21",
       "total_count": 100,
       "top_language": "Python",

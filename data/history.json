@@ -1,6 +1,37 @@
 {
   "dates": [
     {
+      "date": "2026-02-23",
+      "total_count": 100,
+      "top_language": "TypeScript",
+      "language_distribution": {
+        "TypeScript": 27,
+        "Python": 20,
+        "JavaScript": 13,
+        "C++": 7,
+        "Rust": 7,
+        "null": 5,
+        "Go": 5,
+        "Swift": 3,
+        "Shell": 2,
+        "C": 2,
+        "HTML": 2,
+        "Java": 2,
+        "Kotlin": 1,
+        "Dockerfile": 1,
+        "Svelte": 1,
+        "Zig": 1,
+        "Jupyter Notebook": 1
+      },
+      "top_repo": {
+        "name": "CraftyGeezer/Kalshi-Polymarket-Ai-bot",
+        "stars": 658,
+        "score": 76.34
+      },
+      "average_stars": 168.48,
+      "total_stars": 16848
+    },
+    {
       "date": "2026-02-22",
       "total_count": 100,
       "top_language": "TypeScript",

@@ -1,6 +1,33 @@
 {
   "dates": [
     {
+      "date": "2026-02-27",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 31,
+        "TypeScript": 26,
+        "Rust": 12,
+        "JavaScript": 7,
+        "Go": 7,
+        "null": 4,
+        "HTML": 3,
+        "Shell": 3,
+        "Swift": 2,
+        "Kotlin": 2,
+        "Java": 1,
+        "C#": 1,
+        "C": 1
+      },
+      "top_repo": {
+        "name": "cloudflare/vinext",
+        "stars": 3920,
+        "score": 83.31
+      },
+      "average_stars": 323.24,
+      "total_stars": 32324
+    },
+    {
       "date": "2026-02-26",
       "total_count": 100,
       "top_language": "Python",

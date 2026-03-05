@@ -1,6 +1,36 @@
 {
   "dates": [
     {
+      "date": "2026-03-05",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 30,
+        "TypeScript": 24,
+        "Rust": 12,
+        "null": 6,
+        "Go": 6,
+        "Shell": 5,
+        "C++": 4,
+        "JavaScript": 4,
+        "Swift": 2,
+        "Objective-C": 1,
+        "Jupyter Notebook": 1,
+        "F#": 1,
+        "HTML": 1,
+        "C#": 1,
+        "Kotlin": 1,
+        "PHP": 1
+      },
+      "top_repo": {
+        "name": "maderix/ANE",
+        "stars": 5427,
+        "score": 81.6
+      },
+      "average_stars": 365.34,
+      "total_stars": 36534
+    },
+    {
       "date": "2026-03-04",
       "total_count": 100,
       "top_language": "TypeScript",

@@ -1,6 +1,35 @@
 {
   "dates": [
     {
+      "date": "2026-03-06",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 30,
+        "TypeScript": 23,
+        "Rust": 12,
+        "Shell": 6,
+        "null": 6,
+        "Go": 5,
+        "JavaScript": 5,
+        "C++": 4,
+        "Swift": 3,
+        "Objective-C": 1,
+        "Jupyter Notebook": 1,
+        "F#": 1,
+        "Java": 1,
+        "C#": 1,
+        "PHP": 1
+      },
+      "top_repo": {
+        "name": "googleworkspace/cli",
+        "stars": 11689,
+        "score": 83.97
+      },
+      "average_stars": 510.97,
+      "total_stars": 51097
+    },
+    {
       "date": "2026-03-05",
       "total_count": 100,
       "top_language": "Python",

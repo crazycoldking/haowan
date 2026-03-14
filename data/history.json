@@ -1,6 +1,34 @@
 {
   "dates": [
     {
+      "date": "2026-03-14",
+      "total_count": 100,
+      "top_language": "TypeScript",
+      "language_distribution": {
+        "TypeScript": 33,
+        "Python": 33,
+        "JavaScript": 9,
+        "Rust": 6,
+        "null": 4,
+        "Go": 4,
+        "HTML": 2,
+        "Vue": 2,
+        "Swift": 2,
+        "TeX": 1,
+        "C": 1,
+        "Shell": 1,
+        "PHP": 1,
+        "Java": 1
+      },
+      "top_repo": {
+        "name": "garrytan/gstack",
+        "stars": 6133,
+        "score": 85.04
+      },
+      "average_stars": 558.12,
+      "total_stars": 55812
+    },
+    {
       "date": "2026-03-13",
       "total_count": 100,
       "top_language": "Python",

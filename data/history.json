@@ -1,6 +1,34 @@
 {
   "dates": [
     {
+      "date": "2026-03-20",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 33,
+        "TypeScript": 23,
+        "null": 10,
+        "Rust": 9,
+        "JavaScript": 7,
+        "Swift": 4,
+        "HTML": 3,
+        "C++": 3,
+        "Shell": 2,
+        "Go": 2,
+        "Astro": 1,
+        "Objective-C": 1,
+        "Java": 1,
+        "Kotlin": 1
+      },
+      "top_repo": {
+        "name": "NVIDIA/NemoClaw",
+        "stars": 12607,
+        "score": 84.86
+      },
+      "average_stars": 598.69,
+      "total_stars": 59869
+    },
+    {
       "date": "2026-03-19",
       "total_count": 100,
       "top_language": "Python",

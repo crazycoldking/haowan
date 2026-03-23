@@ -1,6 +1,35 @@
 {
   "dates": [
     {
+      "date": "2026-03-23",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 28,
+        "TypeScript": 26,
+        "C++": 12,
+        "null": 8,
+        "Rust": 6,
+        "JavaScript": 5,
+        "Go": 4,
+        "Shell": 2,
+        "HTML": 2,
+        "Swift": 2,
+        "C": 1,
+        "C#": 1,
+        "Objective-C": 1,
+        "Astro": 1,
+        "Ruby": 1
+      },
+      "top_repo": {
+        "name": "louislva/claude-peers-mcp",
+        "stars": 590,
+        "score": 75.44
+      },
+      "average_stars": 315.74,
+      "total_stars": 31574
+    },
+    {
       "date": "2026-03-22",
       "total_count": 100,
       "top_language": "Python",

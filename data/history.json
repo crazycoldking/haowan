@@ -1,6 +1,34 @@
 {
   "dates": [
     {
+      "date": "2026-03-24",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 25,
+        "TypeScript": 24,
+        "null": 12,
+        "JavaScript": 10,
+        "C++": 8,
+        "Rust": 7,
+        "Go": 4,
+        "Shell": 3,
+        "C#": 2,
+        "Objective-C": 1,
+        "C": 1,
+        "HTML": 1,
+        "Swift": 1,
+        "Ruby": 1
+      },
+      "top_repo": {
+        "name": "wong2/weixin-agent-sdk",
+        "stars": 749,
+        "score": 77.4
+      },
+      "average_stars": 299.7,
+      "total_stars": 29970
+    },
+    {
       "date": "2026-03-23",
       "total_count": 100,
       "top_language": "Python",

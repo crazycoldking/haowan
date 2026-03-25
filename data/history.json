@@ -1,6 +1,36 @@
 {
   "dates": [
     {
+      "date": "2026-03-25",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 26,
+        "TypeScript": 25,
+        "null": 9,
+        "JavaScript": 9,
+        "Rust": 7,
+        "Go": 6,
+        "C++": 5,
+        "Shell": 3,
+        "Swift": 2,
+        "Vue": 2,
+        "Objective-C": 1,
+        "TeX": 1,
+        "C": 1,
+        "HTML": 1,
+        "Markdown": 1,
+        "Ruby": 1
+      },
+      "top_repo": {
+        "name": "slavingia/skills",
+        "stars": 1064,
+        "score": 80.0
+      },
+      "average_stars": 286.5,
+      "total_stars": 28650
+    },
+    {
       "date": "2026-03-24",
       "total_count": 100,
       "top_language": "Python",

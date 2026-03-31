@@ -1,6 +1,31 @@
 {
   "dates": [
     {
+      "date": "2026-03-31",
+      "total_count": 100,
+      "top_language": "TypeScript",
+      "language_distribution": {
+        "TypeScript": 29,
+        "Python": 26,
+        "null": 10,
+        "JavaScript": 8,
+        "Rust": 7,
+        "C++": 6,
+        "Swift": 5,
+        "Go": 4,
+        "HTML": 3,
+        "Shell": 1,
+        "Java": 1
+      },
+      "top_repo": {
+        "name": "openai/codex-plugin-cc",
+        "stars": 1312,
+        "score": 80.81
+      },
+      "average_stars": 394.58,
+      "total_stars": 39458
+    },
+    {
       "date": "2026-03-30",
       "total_count": 100,
       "top_language": "TypeScript",

@@ -1,6 +1,30 @@
 {
   "dates": [
     {
+      "date": "2026-04-06",
+      "total_count": 100,
+      "top_language": "TypeScript",
+      "language_distribution": {
+        "TypeScript": 42,
+        "Python": 28,
+        "null": 10,
+        "Rust": 6,
+        "C++": 4,
+        "JavaScript": 3,
+        "HTML": 2,
+        "Go": 2,
+        "Shell": 2,
+        "Jupyter Notebook": 1
+      },
+      "top_repo": {
+        "name": "ultraworkers/claw-code",
+        "stars": 170924,
+        "score": 87.13
+      },
+      "average_stars": 3554.42,
+      "total_stars": 355442
+    },
+    {
       "date": "2026-04-05",
       "total_count": 100,
       "top_language": "TypeScript",

@@ -1,6 +1,31 @@
 {
   "dates": [
     {
+      "date": "2026-04-07",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 33,
+        "TypeScript": 26,
+        "JavaScript": 12,
+        "null": 9,
+        "Rust": 6,
+        "Go": 4,
+        "HTML": 3,
+        "Swift": 2,
+        "C++": 2,
+        "Kotlin": 2,
+        "Shell": 1
+      },
+      "top_repo": {
+        "name": "santifer/career-ops",
+        "stars": 11274,
+        "score": 85.39
+      },
+      "average_stars": 968.2,
+      "total_stars": 96820
+    },
+    {
       "date": "2026-04-06",
       "total_count": 100,
       "top_language": "TypeScript",

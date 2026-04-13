@@ -1,6 +1,32 @@
 {
   "dates": [
     {
+      "date": "2026-04-13",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 24,
+        "TypeScript": 24,
+        "C++": 14,
+        "JavaScript": 11,
+        "Swift": 6,
+        "null": 5,
+        "Rust": 4,
+        "Shell": 4,
+        "Go": 3,
+        "HTML": 3,
+        "Kotlin": 1,
+        "C#": 1
+      },
+      "top_repo": {
+        "name": "yizhiyanhua-ai/fireworks-tech-graph",
+        "stars": 1582,
+        "score": 78.8
+      },
+      "average_stars": 301.43,
+      "total_stars": 30143
+    },
+    {
       "date": "2026-04-12",
       "total_count": 100,
       "top_language": "Python",

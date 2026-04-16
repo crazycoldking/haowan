@@ -1,6 +1,35 @@
 {
   "dates": [
     {
+      "date": "2026-04-16",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 29,
+        "TypeScript": 21,
+        "C++": 10,
+        "JavaScript": 9,
+        "Rust": 8,
+        "null": 5,
+        "Go": 4,
+        "Swift": 4,
+        "HTML": 3,
+        "Shell": 2,
+        "PHP": 1,
+        "Kotlin": 1,
+        "Java": 1,
+        "C#": 1,
+        "Vue": 1
+      },
+      "top_repo": {
+        "name": "AgentSeal/codeburn",
+        "stars": 1791,
+        "score": 77.82
+      },
+      "average_stars": 294.25,
+      "total_stars": 29425
+    },
+    {
       "date": "2026-04-15",
       "total_count": 100,
       "top_language": "Python",

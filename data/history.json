@@ -1,6 +1,34 @@
 {
   "dates": [
     {
+      "date": "2026-04-17",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 29,
+        "TypeScript": 23,
+        "JavaScript": 11,
+        "null": 9,
+        "C++": 7,
+        "Rust": 6,
+        "HTML": 5,
+        "Go": 2,
+        "C#": 2,
+        "Swift": 2,
+        "PHP": 1,
+        "Kotlin": 1,
+        "Java": 1,
+        "ShaderLab": 1
+      },
+      "top_repo": {
+        "name": "Nightmare-Eclipse/RedSun",
+        "stars": 782,
+        "score": 77.75
+      },
+      "average_stars": 297.84,
+      "total_stars": 29784
+    },
+    {
       "date": "2026-04-16",
       "total_count": 100,
       "top_language": "Python",

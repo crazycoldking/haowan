@@ -1,6 +1,33 @@
 {
   "dates": [
     {
+      "date": "2026-04-21",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 24,
+        "TypeScript": 22,
+        "C++": 11,
+        "JavaScript": 9,
+        "null": 8,
+        "Rust": 8,
+        "Swift": 7,
+        "HTML": 3,
+        "Go": 3,
+        "Java": 2,
+        "Batchfile": 1,
+        "C#": 1,
+        "Kotlin": 1
+      },
+      "top_repo": {
+        "name": "kyegomez/OpenMythos",
+        "stars": 4258,
+        "score": 84.35
+      },
+      "average_stars": 382.35,
+      "total_stars": 38235
+    },
+    {
       "date": "2026-04-20",
       "total_count": 100,
       "top_language": "Python",

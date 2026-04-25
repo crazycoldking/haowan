@@ -1,6 +1,35 @@
 {
   "dates": [
     {
+      "date": "2026-04-25",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 32,
+        "TypeScript": 26,
+        "JavaScript": 10,
+        "C++": 10,
+        "null": 5,
+        "Go": 4,
+        "HTML": 3,
+        "Rust": 2,
+        "Swift": 2,
+        "CSS": 1,
+        "Cuda": 1,
+        "Batchfile": 1,
+        "Java": 1,
+        "Vue": 1,
+        "Dart": 1
+      },
+      "top_repo": {
+        "name": "op7418/guizang-ppt-skill",
+        "stars": 1931,
+        "score": 82.3
+      },
+      "average_stars": 371.37,
+      "total_stars": 37137
+    },
+    {
       "date": "2026-04-24",
       "total_count": 100,
       "top_language": "TypeScript",

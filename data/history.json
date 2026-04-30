@@ -1,6 +1,33 @@
 {
   "dates": [
     {
+      "date": "2026-04-30",
+      "total_count": 100,
+      "top_language": "TypeScript",
+      "language_distribution": {
+        "TypeScript": 26,
+        "Python": 24,
+        "C++": 14,
+        "null": 11,
+        "JavaScript": 9,
+        "Go": 5,
+        "HTML": 3,
+        "Swift": 3,
+        "Vue": 1,
+        "Shell": 1,
+        "C": 1,
+        "QML": 1,
+        "Lua": 1
+      },
+      "top_repo": {
+        "name": "nexu-io/open-design",
+        "stars": 4504,
+        "score": 83.57
+      },
+      "average_stars": 262.63,
+      "total_stars": 26263
+    },
+    {
       "date": "2026-04-29",
       "total_count": 100,
       "top_language": "Python",

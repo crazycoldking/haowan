@@ -1,6 +1,32 @@
 {
   "dates": [
     {
+      "date": "2026-05-06",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 25,
+        "TypeScript": 23,
+        "null": 16,
+        "C++": 13,
+        "JavaScript": 8,
+        "Swift": 4,
+        "HTML": 3,
+        "C#": 2,
+        "Rust": 2,
+        "Go": 2,
+        "Jupyter Notebook": 1,
+        "Kotlin": 1
+      },
+      "top_repo": {
+        "name": "aattaran/deepclaude",
+        "stars": 1334,
+        "score": 77.4
+      },
+      "average_stars": 252.2,
+      "total_stars": 25220
+    },
+    {
       "date": "2026-05-05",
       "total_count": 100,
       "top_language": "Python",

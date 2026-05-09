@@ -1,6 +1,38 @@
 {
   "dates": [
     {
+      "date": "2026-05-09",
+      "total_count": 100,
+      "top_language": "TypeScript",
+      "language_distribution": {
+        "TypeScript": 24,
+        "Python": 21,
+        "C++": 14,
+        "JavaScript": 12,
+        "null": 5,
+        "Rust": 4,
+        "Swift": 3,
+        "Go": 3,
+        "C": 2,
+        "Shell": 2,
+        "HTML": 2,
+        "Java": 2,
+        "Jupyter Notebook": 1,
+        "Dockerfile": 1,
+        "Vue": 1,
+        "C#": 1,
+        "PHP": 1,
+        "Kotlin": 1
+      },
+      "top_repo": {
+        "name": "V4bel/dirtyfrag",
+        "stars": 2902,
+        "score": 83.88
+      },
+      "average_stars": 342.97,
+      "total_stars": 34297
+    },
+    {
       "date": "2026-05-08",
       "total_count": 100,
       "top_language": "Python",

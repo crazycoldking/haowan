@@ -1,6 +1,38 @@
 {
   "dates": [
     {
+      "date": "2026-05-12",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 27,
+        "TypeScript": 26,
+        "JavaScript": 8,
+        "Swift": 7,
+        "Rust": 5,
+        "null": 4,
+        "Go": 4,
+        "C": 3,
+        "Java": 3,
+        "Kotlin": 2,
+        "PowerShell": 2,
+        "C#": 2,
+        "Vue": 2,
+        "Zig": 1,
+        "C++": 1,
+        "CSS": 1,
+        "Dockerfile": 1,
+        "Shell": 1
+      },
+      "top_repo": {
+        "name": "antirez/ds4",
+        "stars": 7422,
+        "score": 81.54
+      },
+      "average_stars": 394.07,
+      "total_stars": 39407
+    },
+    {
       "date": "2026-05-11",
       "total_count": 100,
       "top_language": "Python",

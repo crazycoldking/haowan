@@ -1,6 +1,35 @@
 {
   "dates": [
     {
+      "date": "2026-05-16",
+      "total_count": 100,
+      "top_language": "TypeScript",
+      "language_distribution": {
+        "TypeScript": 24,
+        "Python": 21,
+        "C++": 14,
+        "null": 10,
+        "JavaScript": 7,
+        "C#": 7,
+        "PowerShell": 3,
+        "C": 3,
+        "Java": 3,
+        "HTML": 2,
+        "Rust": 2,
+        "Ruby": 1,
+        "Go": 1,
+        "Swift": 1,
+        "Kotlin": 1
+      },
+      "top_repo": {
+        "name": "FULU-Foundation/OrcaSlicer-bambulab",
+        "stars": 4677,
+        "score": 81.03
+      },
+      "average_stars": 406.07,
+      "total_stars": 40607
+    },
+    {
       "date": "2026-05-15",
       "total_count": 100,
       "top_language": "TypeScript",

@@ -1,6 +1,31 @@
 {
   "dates": [
     {
+      "date": "2026-05-18",
+      "total_count": 100,
+      "top_language": "TypeScript",
+      "language_distribution": {
+        "TypeScript": 29,
+        "null": 19,
+        "Python": 16,
+        "C++": 15,
+        "C#": 6,
+        "JavaScript": 5,
+        "C": 3,
+        "Rust": 3,
+        "Swift": 2,
+        "Lua": 1,
+        "PowerShell": 1
+      },
+      "top_repo": {
+        "name": "vercel-labs/zero",
+        "stars": 1712,
+        "score": 79.45
+      },
+      "average_stars": 406.82,
+      "total_stars": 40682
+    },
+    {
       "date": "2026-05-17",
       "total_count": 100,
       "top_language": null,

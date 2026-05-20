@@ -1,6 +1,32 @@
 {
   "dates": [
     {
+      "date": "2026-05-20",
+      "total_count": 100,
+      "top_language": "TypeScript",
+      "language_distribution": {
+        "TypeScript": 28,
+        "null": 21,
+        "Python": 15,
+        "C#": 10,
+        "C++": 9,
+        "JavaScript": 7,
+        "C": 3,
+        "Rust": 2,
+        "Swift": 2,
+        "Lua": 1,
+        "PowerShell": 1,
+        "Go": 1
+      },
+      "top_repo": {
+        "name": "vercel-labs/zerolang",
+        "stars": 3274,
+        "score": 78.79
+      },
+      "average_stars": 411.99,
+      "total_stars": 41199
+    },
+    {
       "date": "2026-05-19",
       "total_count": 100,
       "top_language": "TypeScript",

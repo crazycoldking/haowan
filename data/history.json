@@ -1,6 +1,33 @@
 {
   "dates": [
     {
+      "date": "2026-05-25",
+      "total_count": 100,
+      "top_language": "TypeScript",
+      "language_distribution": {
+        "TypeScript": 36,
+        "null": 19,
+        "Python": 15,
+        "JavaScript": 11,
+        "C#": 9,
+        "C++": 3,
+        "Go": 1,
+        "Shell": 1,
+        "Java": 1,
+        "Swift": 1,
+        "C": 1,
+        "PowerShell": 1,
+        "Rust": 1
+      },
+      "top_repo": {
+        "name": "FoundZiGu/GuJumpgate",
+        "stars": 2354,
+        "score": 73.84
+      },
+      "average_stars": 310.38,
+      "total_stars": 31038
+    },
+    {
       "date": "2026-05-24",
       "total_count": 100,
       "top_language": "TypeScript",

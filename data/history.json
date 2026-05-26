@@ -1,6 +1,35 @@
 {
   "dates": [
     {
+      "date": "2026-05-26",
+      "total_count": 100,
+      "top_language": "TypeScript",
+      "language_distribution": {
+        "TypeScript": 39,
+        "Python": 18,
+        "JavaScript": 12,
+        "C#": 8,
+        "C++": 5,
+        "Shell": 3,
+        "Swift": 3,
+        "Go": 2,
+        "HTML": 2,
+        "Rust": 2,
+        "Java": 2,
+        "null": 1,
+        "C": 1,
+        "Vue": 1,
+        "PHP": 1
+      },
+      "top_repo": {
+        "name": "perplexityai/bumblebee",
+        "stars": 2588,
+        "score": 72.62
+      },
+      "average_stars": 226.98,
+      "total_stars": 22698
+    },
+    {
       "date": "2026-05-25",
       "total_count": 100,
       "top_language": "TypeScript",

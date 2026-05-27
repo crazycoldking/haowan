@@ -1,6 +1,33 @@
 {
   "dates": [
     {
+      "date": "2026-05-27",
+      "total_count": 100,
+      "top_language": "TypeScript",
+      "language_distribution": {
+        "TypeScript": 31,
+        "Python": 22,
+        "JavaScript": 13,
+        "C#": 13,
+        "C++": 7,
+        "null": 3,
+        "Java": 3,
+        "HTML": 2,
+        "Shell": 2,
+        "Vue": 1,
+        "Swift": 1,
+        "Rust": 1,
+        "Go": 1
+      },
+      "top_repo": {
+        "name": "Tong89/smartNode",
+        "stars": 1146,
+        "score": 67.94
+      },
+      "average_stars": 217.31,
+      "total_stars": 21731
+    },
+    {
       "date": "2026-05-26",
       "total_count": 100,
       "top_language": "TypeScript",

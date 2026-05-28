@@ -1,6 +1,31 @@
 {
   "dates": [
     {
+      "date": "2026-05-28",
+      "total_count": 100,
+      "top_language": "TypeScript",
+      "language_distribution": {
+        "TypeScript": 26,
+        "Python": 24,
+        "JavaScript": 12,
+        "C#": 12,
+        "C++": 10,
+        "Rust": 5,
+        "HTML": 3,
+        "null": 3,
+        "Swift": 2,
+        "Java": 2,
+        "Vue": 1
+      },
+      "top_repo": {
+        "name": "5-m0cftvuvif/stake-monthly",
+        "stars": 267,
+        "score": 68.95
+      },
+      "average_stars": 204.67,
+      "total_stars": 20467
+    },
+    {
       "date": "2026-05-27",
       "total_count": 100,
       "top_language": "TypeScript",

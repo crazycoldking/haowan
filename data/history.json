@@ -1,6 +1,33 @@
 {
   "dates": [
     {
+      "date": "2026-05-31",
+      "total_count": 100,
+      "top_language": "TypeScript",
+      "language_distribution": {
+        "TypeScript": 35,
+        "Python": 17,
+        "C#": 16,
+        "JavaScript": 11,
+        "null": 6,
+        "C++": 6,
+        "HTML": 2,
+        "Rust": 2,
+        "Go": 1,
+        "Haskell": 1,
+        "PHP": 1,
+        "Java": 1,
+        "PowerShell": 1
+      },
+      "top_repo": {
+        "name": "op7418/guizang-social-card-skill",
+        "stars": 1640,
+        "score": 73.78
+      },
+      "average_stars": 261.05,
+      "total_stars": 26105
+    },
+    {
       "date": "2026-05-30",
       "total_count": 100,
       "top_language": "TypeScript",

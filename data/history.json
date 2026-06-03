@@ -1,6 +1,32 @@
 {
   "dates": [
     {
+      "date": "2026-06-03",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 33,
+        "TypeScript": 21,
+        "C#": 14,
+        "C++": 9,
+        "Rust": 5,
+        "null": 5,
+        "Go": 4,
+        "Swift": 3,
+        "JavaScript": 2,
+        "HTML": 2,
+        "PHP": 1,
+        "Batchfile": 1
+      },
+      "top_repo": {
+        "name": "pewdiepie-archdaemon/odysseus",
+        "stars": 33895,
+        "score": 91.37
+      },
+      "average_stars": 563.95,
+      "total_stars": 56395
+    },
+    {
       "date": "2026-06-02",
       "total_count": 100,
       "top_language": "TypeScript",

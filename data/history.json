@@ -1,6 +1,34 @@
 {
   "dates": [
     {
+      "date": "2026-06-08",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 26,
+        "TypeScript": 15,
+        "C#": 12,
+        "C++": 12,
+        "JavaScript": 10,
+        "null": 7,
+        "Go": 6,
+        "Rust": 4,
+        "Swift": 3,
+        "HTML": 1,
+        "TeX": 1,
+        "C": 1,
+        "Shell": 1,
+        "Vue": 1
+      },
+      "top_repo": {
+        "name": "b-nnett/goose",
+        "stars": 2257,
+        "score": 73.5
+      },
+      "average_stars": 193.37,
+      "total_stars": 19337
+    },
+    {
       "date": "2026-06-07",
       "total_count": 100,
       "top_language": "Python",

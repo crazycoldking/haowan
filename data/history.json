@@ -1,6 +1,36 @@
 {
   "dates": [
     {
+      "date": "2026-06-15",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 24,
+        "TypeScript": 20,
+        "JavaScript": 10,
+        "C#": 9,
+        "Go": 6,
+        "Swift": 6,
+        "C++": 6,
+        "null": 5,
+        "Shell": 5,
+        "HTML": 2,
+        "Rust": 2,
+        "Batchfile": 1,
+        "Verilog": 1,
+        "C": 1,
+        "Kotlin": 1,
+        "Zig": 1
+      },
+      "top_repo": {
+        "name": "XiaomiMiMo/MiMo-Code",
+        "stars": 8499,
+        "score": 83.33
+      },
+      "average_stars": 444.78,
+      "total_stars": 44478
+    },
+    {
       "date": "2026-06-14",
       "total_count": 100,
       "top_language": "Python",

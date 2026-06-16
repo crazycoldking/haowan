@@ -1,6 +1,35 @@
 {
   "dates": [
     {
+      "date": "2026-06-16",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 26,
+        "TypeScript": 20,
+        "JavaScript": 10,
+        "C#": 10,
+        "null": 6,
+        "Shell": 6,
+        "Swift": 6,
+        "Go": 5,
+        "C++": 3,
+        "Kotlin": 2,
+        "Rust": 2,
+        "C": 1,
+        "HTML": 1,
+        "Verilog": 1,
+        "Zig": 1
+      },
+      "top_repo": {
+        "name": "DietrichGebert/ponytail",
+        "stars": 16949,
+        "score": 84.0
+      },
+      "average_stars": 563.05,
+      "total_stars": 56305
+    },
+    {
       "date": "2026-06-15",
       "total_count": 100,
       "top_language": "Python",

@@ -1,6 +1,30 @@
 {
   "dates": [
     {
+      "date": "2026-06-20",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 31,
+        "TypeScript": 24,
+        "JavaScript": 12,
+        "C#": 10,
+        "null": 9,
+        "C++": 6,
+        "Go": 3,
+        "HTML": 2,
+        "Swift": 2,
+        "C": 1
+      },
+      "top_repo": {
+        "name": "vercel/eve",
+        "stars": 1654,
+        "score": 73.85
+      },
+      "average_stars": 203.56,
+      "total_stars": 20356
+    },
+    {
       "date": "2026-06-19",
       "total_count": 100,
       "top_language": "Python",

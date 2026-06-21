@@ -1,6 +1,32 @@
 {
   "dates": [
     {
+      "date": "2026-06-21",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 29,
+        "TypeScript": 24,
+        "JavaScript": 12,
+        "null": 9,
+        "C#": 8,
+        "C++": 6,
+        "Go": 3,
+        "Swift": 3,
+        "HTML": 2,
+        "Rust": 2,
+        "PowerShell": 1,
+        "C": 1
+      },
+      "top_repo": {
+        "name": "Forsy-AI/agent-apprenticeship",
+        "stars": 533,
+        "score": 72.61
+      },
+      "average_stars": 172.72,
+      "total_stars": 17272
+    },
+    {
       "date": "2026-06-20",
       "total_count": 100,
       "top_language": "Python",

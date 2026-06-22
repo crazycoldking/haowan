@@ -1,6 +1,34 @@
 {
   "dates": [
     {
+      "date": "2026-06-22",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 27,
+        "TypeScript": 20,
+        "JavaScript": 14,
+        "C#": 14,
+        "null": 7,
+        "Swift": 4,
+        "C++": 4,
+        "Go": 2,
+        "HTML": 2,
+        "Rust": 2,
+        "PowerShell": 1,
+        "C": 1,
+        "PHP": 1,
+        "Java": 1
+      },
+      "top_repo": {
+        "name": "zhongerxin/Cowart",
+        "stars": 1296,
+        "score": 73.85
+      },
+      "average_stars": 183.63,
+      "total_stars": 18363
+    },
+    {
       "date": "2026-06-21",
       "total_count": 100,
       "top_language": "Python",

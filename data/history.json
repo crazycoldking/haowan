@@ -1,6 +1,35 @@
 {
   "dates": [
     {
+      "date": "2026-06-23",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 33,
+        "JavaScript": 14,
+        "TypeScript": 14,
+        "C#": 12,
+        "C++": 6,
+        "null": 5,
+        "Swift": 3,
+        "Java": 3,
+        "Rust": 3,
+        "Go": 2,
+        "PowerShell": 1,
+        "HTML": 1,
+        "Shell": 1,
+        "Dart": 1,
+        "Kotlin": 1
+      },
+      "top_repo": {
+        "name": "kanavtwtgg/birds.cafe",
+        "stars": 552,
+        "score": 74.9
+      },
+      "average_stars": 183.99,
+      "total_stars": 18399
+    },
+    {
       "date": "2026-06-22",
       "total_count": 100,
       "top_language": "Python",

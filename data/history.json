@@ -1,6 +1,36 @@
 {
   "dates": [
     {
+      "date": "2026-06-24",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 37,
+        "TypeScript": 13,
+        "JavaScript": 12,
+        "null": 7,
+        "C++": 7,
+        "C#": 6,
+        "HTML": 4,
+        "Rust": 4,
+        "Go": 2,
+        "Swift": 2,
+        "Ruby": 1,
+        "Java": 1,
+        "Kotlin": 1,
+        "QML": 1,
+        "PowerShell": 1,
+        "Dart": 1
+      },
+      "top_repo": {
+        "name": "baidu/Unlimited-OCR",
+        "stars": 3810,
+        "score": 77.79
+      },
+      "average_stars": 217.01,
+      "total_stars": 21701
+    },
+    {
       "date": "2026-06-23",
       "total_count": 100,
       "top_language": "Python",

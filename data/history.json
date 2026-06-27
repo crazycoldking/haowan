@@ -1,6 +1,36 @@
 {
   "dates": [
     {
+      "date": "2026-06-27",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 38,
+        "TypeScript": 22,
+        "JavaScript": 13,
+        "null": 6,
+        "Rust": 4,
+        "HTML": 3,
+        "C++": 3,
+        "Go": 2,
+        "C#": 2,
+        "PHP": 1,
+        "Swift": 1,
+        "Dart": 1,
+        "Ruby": 1,
+        "Java": 1,
+        "QML": 1,
+        "Kotlin": 1
+      },
+      "top_repo": {
+        "name": "bozhouDev/codex-orange-book",
+        "stars": 2143,
+        "score": 77.97
+      },
+      "average_stars": 191.74,
+      "total_stars": 19174
+    },
+    {
       "date": "2026-06-26",
       "total_count": 100,
       "top_language": "Python",

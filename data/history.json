@@ -1,6 +1,35 @@
 {
   "dates": [
     {
+      "date": "2026-06-28",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 39,
+        "TypeScript": 25,
+        "JavaScript": 14,
+        "null": 4,
+        "HTML": 3,
+        "Rust": 3,
+        "C++": 3,
+        "Go": 2,
+        "Vue": 1,
+        "Dart": 1,
+        "PHP": 1,
+        "Objective-C++": 1,
+        "Ruby": 1,
+        "Java": 1,
+        "Swift": 1
+      },
+      "top_repo": {
+        "name": "deepseek-ai/DeepSpec",
+        "stars": 1374,
+        "score": 80.99
+      },
+      "average_stars": 232.26,
+      "total_stars": 23226
+    },
+    {
       "date": "2026-06-27",
       "total_count": 100,
       "top_language": "Python",

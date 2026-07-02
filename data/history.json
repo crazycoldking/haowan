@@ -1,6 +1,34 @@
 {
   "dates": [
     {
+      "date": "2026-07-02",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 50,
+        "TypeScript": 15,
+        "JavaScript": 7,
+        "C++": 6,
+        "Go": 5,
+        "C#": 4,
+        "null": 3,
+        "Swift": 2,
+        "Vue": 2,
+        "Rust": 2,
+        "QML": 1,
+        "C": 1,
+        "Kotlin": 1,
+        "Dart": 1
+      },
+      "top_repo": {
+        "name": "deepseek-ai/DeepSpec",
+        "stars": 5752,
+        "score": 80.55
+      },
+      "average_stars": 310.17,
+      "total_stars": 31017
+    },
+    {
       "date": "2026-07-01",
       "total_count": 100,
       "top_language": "Python",

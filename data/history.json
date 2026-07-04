@@ -1,6 +1,37 @@
 {
   "dates": [
     {
+      "date": "2026-07-04",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 25,
+        "HTML": 21,
+        "TypeScript": 14,
+        "JavaScript": 10,
+        "null": 4,
+        "Rust": 4,
+        "Shell": 3,
+        "Swift": 3,
+        "Go": 3,
+        "PHP": 3,
+        "C++": 2,
+        "Kotlin": 2,
+        "C#": 2,
+        "Astro": 1,
+        "CSS": 1,
+        "C": 1,
+        "Dart": 1
+      },
+      "top_repo": {
+        "name": "mekos2772/ios-location-spoofer",
+        "stars": 1251,
+        "score": 73.56
+      },
+      "average_stars": 195.41,
+      "total_stars": 19541
+    },
+    {
       "date": "2026-07-03",
       "total_count": 100,
       "top_language": "Python",

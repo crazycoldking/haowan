@@ -1,6 +1,35 @@
 {
   "dates": [
     {
+      "date": "2026-07-05",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 32,
+        "TypeScript": 17,
+        "JavaScript": 12,
+        "null": 6,
+        "Swift": 6,
+        "Go": 5,
+        "Rust": 4,
+        "C#": 4,
+        "Kotlin": 4,
+        "C++": 3,
+        "Shell": 2,
+        "PHP": 2,
+        "Astro": 1,
+        "CSS": 1,
+        "HTML": 1
+      },
+      "top_repo": {
+        "name": "jamesob/local-llm",
+        "stars": 756,
+        "score": 77.47
+      },
+      "average_stars": 164.58,
+      "total_stars": 16458
+    },
+    {
       "date": "2026-07-04",
       "total_count": 100,
       "top_language": "Python",

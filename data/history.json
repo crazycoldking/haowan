@@ -1,6 +1,33 @@
 {
   "dates": [
     {
+      "date": "2026-07-09",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 33,
+        "TypeScript": 19,
+        "JavaScript": 12,
+        "Rust": 11,
+        "null": 5,
+        "Dockerfile": 4,
+        "Go": 4,
+        "C++": 3,
+        "Shell": 3,
+        "Swift": 3,
+        "C": 1,
+        "HTML": 1,
+        "Kotlin": 1
+      },
+      "top_repo": {
+        "name": "x4gKing/X4G",
+        "stars": 2477,
+        "score": 76.5
+      },
+      "average_stars": 290.37,
+      "total_stars": 29037
+    },
+    {
       "date": "2026-07-08",
       "total_count": 100,
       "top_language": "Python",

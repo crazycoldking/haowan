@@ -1,6 +1,35 @@
 {
   "dates": [
     {
+      "date": "2026-07-11",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 35,
+        "TypeScript": 23,
+        "JavaScript": 15,
+        "Rust": 6,
+        "null": 5,
+        "C++": 3,
+        "Swift": 2,
+        "Dockerfile": 2,
+        "Go": 2,
+        "C#": 2,
+        "HTML": 1,
+        "C": 1,
+        "Shell": 1,
+        "Kotlin": 1,
+        "Java": 1
+      },
+      "top_repo": {
+        "name": "withmarbleapp/os-taxonomy",
+        "stars": 2140,
+        "score": 80.98
+      },
+      "average_stars": 267.85,
+      "total_stars": 26785
+    },
+    {
       "date": "2026-07-10",
       "total_count": 100,
       "top_language": "Python",

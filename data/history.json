@@ -1,6 +1,34 @@
 {
   "dates": [
     {
+      "date": "2026-07-14",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 36,
+        "TypeScript": 28,
+        "JavaScript": 9,
+        "null": 6,
+        "Go": 5,
+        "Rust": 4,
+        "Dockerfile": 2,
+        "HTML": 2,
+        "C++": 2,
+        "C#": 2,
+        "Swift": 1,
+        "Java": 1,
+        "CSS": 1,
+        "Kotlin": 1
+      },
+      "top_repo": {
+        "name": "littledivy/mimic",
+        "stars": 685,
+        "score": 76.67
+      },
+      "average_stars": 245.91,
+      "total_stars": 24591
+    },
+    {
       "date": "2026-07-13",
       "total_count": 100,
       "top_language": "Python",

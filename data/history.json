@@ -1,6 +1,37 @@
 {
   "dates": [
     {
+      "date": "2026-07-21",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 32,
+        "TypeScript": 15,
+        "JavaScript": 14,
+        "null": 8,
+        "Go": 6,
+        "Rust": 6,
+        "Swift": 5,
+        "C++": 3,
+        "Shell": 2,
+        "Java": 2,
+        "Solidity": 1,
+        "Dart": 1,
+        "HTML": 1,
+        "C#": 1,
+        "PowerShell": 1,
+        "CSS": 1,
+        "Kotlin": 1
+      },
+      "top_repo": {
+        "name": "Fei-Away/Codex-Dream-Skin",
+        "stars": 11084,
+        "score": 83.08
+      },
+      "average_stars": 309.19,
+      "total_stars": 30919
+    },
+    {
       "date": "2026-07-20",
       "total_count": 100,
       "top_language": "Python",

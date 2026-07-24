@@ -1,6 +1,34 @@
 {
   "dates": [
     {
+      "date": "2026-07-24",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 29,
+        "TypeScript": 21,
+        "JavaScript": 18,
+        "Swift": 6,
+        "Rust": 6,
+        "null": 5,
+        "Go": 4,
+        "C++": 4,
+        "C#": 2,
+        "Shell": 1,
+        "CSS": 1,
+        "Kotlin": 1,
+        "R": 1,
+        "C": 1
+      },
+      "top_repo": {
+        "name": "andrewyng/openworker",
+        "stars": 1304,
+        "score": 73.9
+      },
+      "average_stars": 220.19,
+      "total_stars": 22019
+    },
+    {
       "date": "2026-07-23",
       "total_count": 100,
       "top_language": "Python",

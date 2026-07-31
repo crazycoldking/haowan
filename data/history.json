@@ -1,6 +1,35 @@
 {
   "dates": [
     {
+      "date": "2026-07-31",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 33,
+        "TypeScript": 25,
+        "JavaScript": 15,
+        "Go": 5,
+        "Swift": 5,
+        "null": 4,
+        "Rust": 4,
+        "HTML": 2,
+        "C": 1,
+        "Cuda": 1,
+        "Lua": 1,
+        "Java": 1,
+        "C#": 1,
+        "CSS": 1,
+        "C++": 1
+      },
+      "top_repo": {
+        "name": "MoonshotAI/Kimi-K3",
+        "stars": 7541,
+        "score": 84.28
+      },
+      "average_stars": 269.72,
+      "total_stars": 26972
+    },
+    {
       "date": "2026-07-30",
       "total_count": 100,
       "top_language": "Python",

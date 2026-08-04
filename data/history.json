@@ -1,6 +1,36 @@
 {
   "dates": [
     {
+      "date": "2026-08-04",
+      "total_count": 100,
+      "top_language": "TypeScript",
+      "language_distribution": {
+        "TypeScript": 27,
+        "Python": 27,
+        "JavaScript": 15,
+        "null": 7,
+        "Go": 5,
+        "Swift": 4,
+        "HTML": 3,
+        "C": 2,
+        "Kotlin": 2,
+        "Rust": 2,
+        "Shell": 1,
+        "Lean": 1,
+        "Astro": 1,
+        "C++": 1,
+        "Vue": 1,
+        "Cuda": 1
+      },
+      "top_repo": {
+        "name": "yc-software/qm",
+        "stars": 9729,
+        "score": 82.58
+      },
+      "average_stars": 412.91,
+      "total_stars": 41291
+    },
+    {
       "date": "2026-08-03",
       "total_count": 100,
       "top_language": "TypeScript",

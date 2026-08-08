@@ -1,6 +1,35 @@
 {
   "dates": [
     {
+      "date": "2026-08-08",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 35,
+        "JavaScript": 19,
+        "TypeScript": 11,
+        "null": 9,
+        "Rust": 6,
+        "Swift": 6,
+        "Shell": 2,
+        "HTML": 2,
+        "Vue": 2,
+        "Go": 2,
+        "PHP": 2,
+        "C": 1,
+        "Objective-C": 1,
+        "C++": 1,
+        "C#": 1
+      },
+      "top_repo": {
+        "name": "firecrawl/anydoc",
+        "stars": 11029,
+        "score": 84.34
+      },
+      "average_stars": 405.23,
+      "total_stars": 40523
+    },
+    {
       "date": "2026-08-07",
       "total_count": 100,
       "top_language": "Python",

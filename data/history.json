@@ -1,6 +1,36 @@
 {
   "dates": [
     {
+      "date": "2026-08-12",
+      "total_count": 100,
+      "top_language": "TypeScript",
+      "language_distribution": {
+        "TypeScript": 26,
+        "Python": 17,
+        "JavaScript": 15,
+        "Rust": 8,
+        "C++": 6,
+        "C": 5,
+        "Shell": 5,
+        "null": 4,
+        "Vue": 3,
+        "Swift": 3,
+        "HTML": 2,
+        "Go": 2,
+        "Java": 1,
+        "GDScript": 1,
+        "C#": 1,
+        "Dart": 1
+      },
+      "top_repo": {
+        "name": "SMNETSTUDIO/WeChat-AI",
+        "stars": 1422,
+        "score": 81.12
+      },
+      "average_stars": 250.75,
+      "total_stars": 25075
+    },
+    {
       "date": "2026-08-11",
       "total_count": 100,
       "top_language": "Python",

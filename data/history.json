@@ -1,6 +1,38 @@
 {
   "dates": [
     {
+      "date": "2026-08-13",
+      "total_count": 100,
+      "top_language": "TypeScript",
+      "language_distribution": {
+        "TypeScript": 28,
+        "Python": 22,
+        "JavaScript": 13,
+        "C++": 4,
+        "HTML": 4,
+        "Rust": 4,
+        "C#": 4,
+        "Shell": 3,
+        "Swift": 3,
+        "Vue": 3,
+        "C": 2,
+        "Java": 2,
+        "Go": 2,
+        "null": 2,
+        "Solidity": 1,
+        "Objective-C": 1,
+        "GDScript": 1,
+        "Nix": 1
+      },
+      "top_repo": {
+        "name": "guillaumemeyer/watermarks-remover",
+        "stars": 2369,
+        "score": 83.81
+      },
+      "average_stars": 283.71,
+      "total_stars": 28371
+    },
+    {
       "date": "2026-08-12",
       "total_count": 100,
       "top_language": "TypeScript",

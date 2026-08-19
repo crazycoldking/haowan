@@ -1,6 +1,35 @@
 {
   "dates": [
     {
+      "date": "2026-08-19",
+      "total_count": 100,
+      "top_language": "TypeScript",
+      "language_distribution": {
+        "TypeScript": 33,
+        "JavaScript": 21,
+        "Python": 21,
+        "Swift": 6,
+        "null": 4,
+        "HTML": 3,
+        "C++": 3,
+        "Rust": 2,
+        "PowerShell": 1,
+        "C": 1,
+        "Java": 1,
+        "Go": 1,
+        "Vue": 1,
+        "PHP": 1,
+        "Dart": 1
+      },
+      "top_repo": {
+        "name": "deepseek-ai/deepseek-harness",
+        "stars": 160402,
+        "score": 85.13
+      },
+      "average_stars": 2311.94,
+      "total_stars": 231194
+    },
+    {
       "date": "2026-08-18",
       "total_count": 100,
       "top_language": "TypeScript",

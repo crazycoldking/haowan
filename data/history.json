@@ -1,6 +1,34 @@
 {
   "dates": [
     {
+      "date": "2026-08-20",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 29,
+        "TypeScript": 23,
+        "JavaScript": 20,
+        "Swift": 7,
+        "null": 6,
+        "HTML": 3,
+        "Rust": 3,
+        "C++": 3,
+        "PowerShell": 1,
+        "Java": 1,
+        "Go": 1,
+        "Vue": 1,
+        "PHP": 1,
+        "Kotlin": 1
+      },
+      "top_repo": {
+        "name": "yetone/cumora",
+        "stars": 2683,
+        "score": 81.85
+      },
+      "average_stars": 427.15,
+      "total_stars": 42715
+    },
+    {
       "date": "2026-08-19",
       "total_count": 100,
       "top_language": "TypeScript",

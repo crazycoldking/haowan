@@ -1,6 +1,36 @@
 {
   "dates": [
     {
+      "date": "2026-08-22",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 30,
+        "JavaScript": 20,
+        "TypeScript": 19,
+        "null": 8,
+        "Swift": 4,
+        "Shell": 3,
+        "C++": 3,
+        "HTML": 2,
+        "Rust": 2,
+        "Go": 2,
+        "Kotlin": 2,
+        "PHP": 1,
+        "Markdown": 1,
+        "Java": 1,
+        "C#": 1,
+        "Just": 1
+      },
+      "top_repo": {
+        "name": "s1dashu/ip-as-logo-skill",
+        "stars": 3487,
+        "score": 79.3
+      },
+      "average_stars": 330.53,
+      "total_stars": 33053
+    },
+    {
       "date": "2026-08-21",
       "total_count": 100,
       "top_language": "Python",

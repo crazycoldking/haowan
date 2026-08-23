@@ -1,6 +1,35 @@
 {
   "dates": [
     {
+      "date": "2026-08-23",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 31,
+        "TypeScript": 21,
+        "JavaScript": 16,
+        "null": 7,
+        "Swift": 4,
+        "Rust": 4,
+        "Shell": 3,
+        "C++": 3,
+        "HTML": 2,
+        "Kotlin": 2,
+        "Go": 2,
+        "Java": 2,
+        "PHP": 1,
+        "Markdown": 1,
+        "C#": 1
+      },
+      "top_repo": {
+        "name": "MengTo/threeui",
+        "stars": 1883,
+        "score": 80.21
+      },
+      "average_stars": 347.81,
+      "total_stars": 34781
+    },
+    {
       "date": "2026-08-22",
       "total_count": 100,
       "top_language": "Python",

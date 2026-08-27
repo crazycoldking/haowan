@@ -1,6 +1,36 @@
 {
   "dates": [
     {
+      "date": "2026-08-27",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 34,
+        "JavaScript": 20,
+        "TypeScript": 17,
+        "Rust": 5,
+        "C++": 5,
+        "null": 3,
+        "Swift": 3,
+        "HTML": 2,
+        "Go": 2,
+        "C#": 2,
+        "Java": 2,
+        "Zig": 1,
+        "Astro": 1,
+        "Shell": 1,
+        "Ruby": 1,
+        "Kotlin": 1
+      },
+      "top_repo": {
+        "name": "b-nnett/grok-bot-0.18-reconstructed",
+        "stars": 3143,
+        "score": 80.9
+      },
+      "average_stars": 314.88,
+      "total_stars": 31488
+    },
+    {
       "date": "2026-08-26",
       "total_count": 100,
       "top_language": "Python",

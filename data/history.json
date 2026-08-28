@@ -1,6 +1,36 @@
 {
   "dates": [
     {
+      "date": "2026-08-28",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 33,
+        "TypeScript": 21,
+        "JavaScript": 15,
+        "null": 7,
+        "Rust": 6,
+        "Go": 4,
+        "C++": 4,
+        "C#": 2,
+        "TeX": 1,
+        "CSS": 1,
+        "Zig": 1,
+        "Astro": 1,
+        "Shell": 1,
+        "Swift": 1,
+        "Ruby": 1,
+        "Java": 1
+      },
+      "top_repo": {
+        "name": "HEJustinSun/my-girlfriend-jingtian-latex",
+        "stars": 2842,
+        "score": 83.8
+      },
+      "average_stars": 342.98,
+      "total_stars": 34298
+    },
+    {
       "date": "2026-08-27",
       "total_count": 100,
       "top_language": "Python",

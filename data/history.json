@@ -1,6 +1,36 @@
 {
   "dates": [
     {
+      "date": "2026-09-01",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 27,
+        "TypeScript": 16,
+        "JavaScript": 16,
+        "Rust": 10,
+        "C++": 9,
+        "null": 7,
+        "Go": 4,
+        "CSS": 2,
+        "Shell": 2,
+        "TeX": 1,
+        "Markdown": 1,
+        "C": 1,
+        "C#": 1,
+        "Vue": 1,
+        "Java": 1,
+        "Swift": 1
+      },
+      "top_repo": {
+        "name": "sapientinc/PRAXIST",
+        "stars": 5456,
+        "score": 81.62
+      },
+      "average_stars": 353.93,
+      "total_stars": 35393
+    },
+    {
       "date": "2026-08-31",
       "total_count": 100,
       "top_language": "Python",

@@ -1,6 +1,36 @@
 {
   "dates": [
     {
+      "date": "2026-09-05",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 32,
+        "TypeScript": 18,
+        "JavaScript": 18,
+        "Rust": 9,
+        "C++": 5,
+        "Shell": 3,
+        "Go": 3,
+        "C": 2,
+        "null": 2,
+        "C#": 2,
+        "Lean": 1,
+        "Objective-C": 1,
+        "Batchfile": 1,
+        "Swift": 1,
+        "Vue": 1,
+        "Kotlin": 1
+      },
+      "top_repo": {
+        "name": "lnkiai/m3e-canvas",
+        "stars": 2026,
+        "score": 78.77
+      },
+      "average_stars": 245.38,
+      "total_stars": 24538
+    },
+    {
       "date": "2026-09-04",
       "total_count": 100,
       "top_language": "Python",

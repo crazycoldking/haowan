@@ -1,6 +1,36 @@
 {
   "dates": [
     {
+      "date": "2026-09-08",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 34,
+        "JavaScript": 22,
+        "TypeScript": 16,
+        "null": 6,
+        "Swift": 4,
+        "HTML": 3,
+        "Go": 2,
+        "Shell": 2,
+        "C#": 2,
+        "Rust": 2,
+        "C++": 2,
+        "Lean": 1,
+        "C": 1,
+        "Batchfile": 1,
+        "Java": 1,
+        "Astro": 1
+      },
+      "top_repo": {
+        "name": "EverettFish/holo-card-studio",
+        "stars": 858,
+        "score": 78.51
+      },
+      "average_stars": 331.92,
+      "total_stars": 33192
+    },
+    {
       "date": "2026-09-07",
       "total_count": 100,
       "top_language": "Python",

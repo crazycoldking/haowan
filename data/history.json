@@ -1,6 +1,35 @@
 {
   "dates": [
     {
+      "date": "2026-09-10",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 26,
+        "TypeScript": 17,
+        "JavaScript": 15,
+        "C++": 9,
+        "Swift": 8,
+        "null": 5,
+        "HTML": 4,
+        "Go": 4,
+        "Lean": 3,
+        "Kotlin": 2,
+        "C#": 2,
+        "Rust": 2,
+        "Java": 1,
+        "C": 1,
+        "Rich Text Format": 1
+      },
+      "top_repo": {
+        "name": "openai/NavierStokesAndEuler",
+        "stars": 1566,
+        "score": 81.49
+      },
+      "average_stars": 312.5,
+      "total_stars": 31250
+    },
+    {
       "date": "2026-09-09",
       "total_count": 100,
       "top_language": "Python",

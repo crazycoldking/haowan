@@ -1,6 +1,36 @@
 {
   "dates": [
     {
+      "date": "2026-09-13",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 34,
+        "Swift": 15,
+        "JavaScript": 13,
+        "TypeScript": 12,
+        "Go": 4,
+        "C++": 4,
+        "null": 3,
+        "C#": 3,
+        "Rust": 3,
+        "Lean": 2,
+        "Kotlin": 2,
+        "PHP": 1,
+        "HTML": 1,
+        "Cuda": 1,
+        "C": 1,
+        "PowerShell": 1
+      },
+      "top_repo": {
+        "name": "Faizpi/bank-sampah",
+        "stars": 646,
+        "score": 76.19
+      },
+      "average_stars": 323.77,
+      "total_stars": 32377
+    },
+    {
       "date": "2026-09-12",
       "total_count": 100,
       "top_language": "Python",

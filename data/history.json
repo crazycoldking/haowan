@@ -1,6 +1,36 @@
 {
   "dates": [
     {
+      "date": "2026-09-15",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 31,
+        "JavaScript": 13,
+        "Swift": 12,
+        "TypeScript": 9,
+        "Rust": 7,
+        "null": 5,
+        "C#": 5,
+        "Kotlin": 4,
+        "HTML": 3,
+        "Go": 3,
+        "Java": 3,
+        "PHP": 1,
+        "GDScript": 1,
+        "Objective-C": 1,
+        "Cuda": 1,
+        "PowerShell": 1
+      },
+      "top_repo": {
+        "name": "yifanzhang-pro/recurrent-looped-tranformer",
+        "stars": 752,
+        "score": 72.7
+      },
+      "average_stars": 231.23,
+      "total_stars": 23123
+    },
+    {
       "date": "2026-09-14",
       "total_count": 100,
       "top_language": "Python",

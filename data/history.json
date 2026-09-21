@@ -1,6 +1,32 @@
 {
   "dates": [
     {
+      "date": "2026-09-21",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 43,
+        "TypeScript": 18,
+        "JavaScript": 15,
+        "Swift": 7,
+        "Rust": 5,
+        "Go": 4,
+        "null": 3,
+        "Markdown": 1,
+        "CSS": 1,
+        "C++": 1,
+        "C#": 1,
+        "C": 1
+      },
+      "top_repo": {
+        "name": "browser-use/jev-ultrafast",
+        "stars": 12174,
+        "score": 84.72
+      },
+      "average_stars": 658.79,
+      "total_stars": 65879
+    },
+    {
       "date": "2026-09-20",
       "total_count": 100,
       "top_language": "Python",

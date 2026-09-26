@@ -1,6 +1,32 @@
 {
   "dates": [
     {
+      "date": "2026-09-26",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 35,
+        "TypeScript": 23,
+        "JavaScript": 14,
+        "Rust": 6,
+        "Swift": 5,
+        "Go": 4,
+        "HTML": 3,
+        "C++": 3,
+        "null": 3,
+        "Kotlin": 2,
+        "Markdown": 1,
+        "C#": 1
+      },
+      "top_repo": {
+        "name": "zai-org/ZCode",
+        "stars": 6777,
+        "score": 81.18
+      },
+      "average_stars": 469.56,
+      "total_stars": 46956
+    },
+    {
       "date": "2026-09-25",
       "total_count": 100,
       "top_language": "Python",

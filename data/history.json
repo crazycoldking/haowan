@@ -1,6 +1,32 @@
 {
   "dates": [
     {
+      "date": "2026-10-01",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 34,
+        "TypeScript": 17,
+        "JavaScript": 12,
+        "C++": 9,
+        "Rust": 8,
+        "null": 7,
+        "HTML": 4,
+        "Swift": 3,
+        "Kotlin": 3,
+        "Markdown": 1,
+        "Java": 1,
+        "Shell": 1
+      },
+      "top_repo": {
+        "name": "KKKKhazix/AIHOT",
+        "stars": 4130,
+        "score": 84.23
+      },
+      "average_stars": 373.77,
+      "total_stars": 37377
+    },
+    {
       "date": "2026-09-30",
       "total_count": 100,
       "top_language": "Python",

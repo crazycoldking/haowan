@@ -1,6 +1,33 @@
 {
   "dates": [
     {
+      "date": "2026-10-06",
+      "total_count": 100,
+      "top_language": "TypeScript",
+      "language_distribution": {
+        "TypeScript": 22,
+        "Python": 21,
+        "null": 15,
+        "Rust": 11,
+        "C++": 11,
+        "JavaScript": 7,
+        "Java": 2,
+        "HTML": 2,
+        "Kotlin": 2,
+        "C#": 2,
+        "Go": 2,
+        "Swift": 2,
+        "C": 1
+      },
+      "top_repo": {
+        "name": "kargulstudio/sales-crm",
+        "stars": 1476,
+        "score": 81.27
+      },
+      "average_stars": 404.04,
+      "total_stars": 40404
+    },
+    {
       "date": "2026-10-05",
       "total_count": 100,
       "top_language": "Python",

@@ -1,6 +1,31 @@
 {
   "dates": [
     {
+      "date": "2026-10-11",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 21,
+        "TypeScript": 16,
+        "Rust": 15,
+        "JavaScript": 14,
+        "null": 13,
+        "Go": 6,
+        "Swift": 6,
+        "C++": 5,
+        "C#": 2,
+        "Lean": 1,
+        "Shell": 1
+      },
+      "top_repo": {
+        "name": "openai/math",
+        "stars": 13711,
+        "score": 85.18
+      },
+      "average_stars": 719.32,
+      "total_stars": 71932
+    },
+    {
       "date": "2026-10-10",
       "total_count": 100,
       "top_language": "TypeScript",

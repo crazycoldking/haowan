@@ -1,6 +1,38 @@
 {
   "dates": [
     {
+      "date": "2026-10-14",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 25,
+        "TypeScript": 15,
+        "JavaScript": 14,
+        "Rust": 10,
+        "C++": 7,
+        "Swift": 6,
+        "Go": 5,
+        "null": 4,
+        "C": 3,
+        "HTML": 2,
+        "C#": 2,
+        "Shell": 1,
+        "Dockerfile": 1,
+        "Vue": 1,
+        "PHP": 1,
+        "Java": 1,
+        "Kotlin": 1,
+        "Dart": 1
+      },
+      "top_repo": {
+        "name": "liseami/CCBaga",
+        "stars": 2076,
+        "score": 80.86
+      },
+      "average_stars": 607.29,
+      "total_stars": 60729
+    },
+    {
       "date": "2026-10-13",
       "total_count": 100,
       "top_language": "Python",

@@ -1,6 +1,37 @@
 {
   "dates": [
     {
+      "date": "2026-10-17",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 32,
+        "TypeScript": 12,
+        "C++": 12,
+        "JavaScript": 11,
+        "Rust": 10,
+        "Go": 4,
+        "C": 4,
+        "Swift": 3,
+        "null": 2,
+        "PHP": 2,
+        "Kotlin": 2,
+        "C#": 1,
+        "Dart": 1,
+        "Astro": 1,
+        "Ruby": 1,
+        "Vue": 1,
+        "HTML": 1
+      },
+      "top_repo": {
+        "name": "chenglou/handwired",
+        "stars": 1568,
+        "score": 81.5
+      },
+      "average_stars": 478.05,
+      "total_stars": 47805
+    },
+    {
       "date": "2026-10-16",
       "total_count": 100,
       "top_language": "Python",

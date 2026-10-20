@@ -1,6 +1,36 @@
 {
   "dates": [
     {
+      "date": "2026-10-20",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 30,
+        "TypeScript": 12,
+        "C++": 11,
+        "JavaScript": 10,
+        "Rust": 10,
+        "Java": 8,
+        "null": 5,
+        "C": 3,
+        "HTML": 2,
+        "Swift": 2,
+        "Dart": 2,
+        "Go": 1,
+        "Zig": 1,
+        "C#": 1,
+        "PHP": 1,
+        "PowerShell": 1
+      },
+      "top_repo": {
+        "name": "Gathin23/cleanyourtv",
+        "stars": 5746,
+        "score": 82.79
+      },
+      "average_stars": 477.01,
+      "total_stars": 47701
+    },
+    {
       "date": "2026-10-19",
       "total_count": 100,
       "top_language": "Python",

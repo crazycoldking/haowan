@@ -1,6 +1,35 @@
 {
   "dates": [
     {
+      "date": "2026-10-22",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 30,
+        "Rust": 13,
+        "JavaScript": 13,
+        "Java": 10,
+        "TypeScript": 9,
+        "null": 6,
+        "C++": 5,
+        "Kotlin": 3,
+        "C": 3,
+        "Go": 2,
+        "C#": 2,
+        "Shell": 1,
+        "HTML": 1,
+        "Zig": 1,
+        "Swift": 1
+      },
+      "top_repo": {
+        "name": "deepseek-ai/DeepInfer",
+        "stars": 18133,
+        "score": 84.98
+      },
+      "average_stars": 854.14,
+      "total_stars": 85414
+    },
+    {
       "date": "2026-10-21",
       "total_count": 100,
       "top_language": "Python",

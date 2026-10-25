@@ -1,6 +1,35 @@
 {
   "dates": [
     {
+      "date": "2026-10-25",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 37,
+        "JavaScript": 14,
+        "TypeScript": 12,
+        "C": 7,
+        "Rust": 7,
+        "Swift": 5,
+        "Java": 4,
+        "Kotlin": 3,
+        "null": 2,
+        "Go": 2,
+        "C#": 2,
+        "C++": 2,
+        "Shell": 1,
+        "Scala": 1,
+        "HTML": 1
+      },
+      "top_repo": {
+        "name": "pengchujin/aerial-tv",
+        "stars": 4400,
+        "score": 80.79
+      },
+      "average_stars": 532.04,
+      "total_stars": 53204
+    },
+    {
       "date": "2026-10-24",
       "total_count": 100,
       "top_language": "Python",

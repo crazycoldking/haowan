@@ -1,6 +1,33 @@
 {
   "dates": [
     {
+      "date": "2026-10-29",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 31,
+        "TypeScript": 19,
+        "JavaScript": 13,
+        "Rust": 7,
+        "null": 6,
+        "C": 5,
+        "C++": 5,
+        "HTML": 3,
+        "Go": 3,
+        "Java": 2,
+        "Kotlin": 2,
+        "Shell": 2,
+        "Swift": 2
+      },
+      "top_repo": {
+        "name": "unclebob/ub-mode",
+        "stars": 3891,
+        "score": 81.73
+      },
+      "average_stars": 569.81,
+      "total_stars": 56981
+    },
+    {
       "date": "2026-10-28",
       "total_count": 100,
       "top_language": "Python",

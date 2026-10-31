@@ -1,6 +1,35 @@
 {
   "dates": [
     {
+      "date": "2026-10-31",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 29,
+        "JavaScript": 19,
+        "TypeScript": 16,
+        "C++": 8,
+        "Go": 6,
+        "null": 4,
+        "Kotlin": 4,
+        "Java": 3,
+        "Rust": 3,
+        "HTML": 2,
+        "Swift": 2,
+        "C": 1,
+        "Lua": 1,
+        "Dart": 1,
+        "C#": 1
+      },
+      "top_repo": {
+        "name": "valentderah/totk-pc-recomp",
+        "stars": 1692,
+        "score": 81.79
+      },
+      "average_stars": 626.82,
+      "total_stars": 62682
+    },
+    {
       "date": "2026-10-30",
       "total_count": 100,
       "top_language": "Python",

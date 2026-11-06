@@ -1,6 +1,30 @@
 {
   "dates": [
     {
+      "date": "2026-11-06",
+      "total_count": 100,
+      "top_language": "TypeScript",
+      "language_distribution": {
+        "TypeScript": 41,
+        "JavaScript": 22,
+        "Python": 18,
+        "Rust": 8,
+        "null": 3,
+        "Go": 3,
+        "Swift": 2,
+        "C++": 1,
+        "Kotlin": 1,
+        "Java": 1
+      },
+      "top_repo": {
+        "name": "deepseek-ai/dsh-superagent-prototype",
+        "stars": 19679,
+        "score": 85.3
+      },
+      "average_stars": 808.87,
+      "total_stars": 80887
+    },
+    {
       "date": "2026-11-05",
       "total_count": 100,
       "top_language": "Python",

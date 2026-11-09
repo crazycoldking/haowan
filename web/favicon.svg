@@ -1,13 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
   <title>haowan</title>
-  <rect x="2" y="2" width="60" height="60" rx="8" fill="#c8261c"/>
-  <rect x="6" y="6" width="52" height="52" rx="4" fill="none" stroke="#f6e7c1" stroke-width="1.6" opacity="0.85"/>
-  <g fill="none" stroke="#f6e7c1" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M21 14 Q19 25 12 31 L27 36"/>
-    <path d="M30 23 Q25 41 10 53"/>
-    <path d="M9 37 H33"/>
-    <path d="M38 17 H52 Q48 22 42 26"/>
-    <path d="M46 26 V49 Q46 54 40 53"/>
-    <path d="M36 37 H56"/>
-  </g>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#161e2c"/>
+      <stop offset="1" stop-color="#06090f"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7e3b0"/>
+      <stop offset="0.55" stop-color="#d9ac5c"/>
+      <stop offset="1" stop-color="#a87a2e"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.38" r="0.6">
+      <stop offset="0" stop-color="#d9ac5c" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#d9ac5c" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="1" y="1" width="62" height="62" rx="15" fill="url(#bg)"/>
+  <rect x="1" y="1" width="62" height="62" rx="15" fill="url(#glow)"/>
+  <rect x="1.75" y="1.75" width="60.5" height="60.5" rx="14.25" fill="none" stroke="#d9ac5c" stroke-opacity="0.28" stroke-width="1.5"/>
+  <circle cx="32" cy="32" r="24" fill="none" stroke="#d9ac5c" stroke-opacity="0.3" stroke-width="0.9"/>
+  <circle cx="32" cy="32" r="19.5" fill="none" stroke="url(#gold)" stroke-width="3"/>
+  <path d="M25 24.5 L33 32 L25 39.5" fill="none" stroke="url(#gold)" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M36.5 40 H44" fill="none" stroke="#e5392d" stroke-width="3.6" stroke-linecap="round"/>
 </svg>

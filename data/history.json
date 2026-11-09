@@ -1,6 +1,33 @@
 {
   "dates": [
     {
+      "date": "2026-11-09",
+      "total_count": 100,
+      "top_language": "TypeScript",
+      "language_distribution": {
+        "TypeScript": 26,
+        "Python": 24,
+        "null": 16,
+        "JavaScript": 9,
+        "Go": 7,
+        "Rust": 7,
+        "C": 3,
+        "Swift": 2,
+        "HTML": 2,
+        "C++": 1,
+        "C#": 1,
+        "Shell": 1,
+        "Kotlin": 1
+      },
+      "top_repo": {
+        "name": "tangerineturtle1/NX2navi",
+        "stars": 1436,
+        "score": 81.16
+      },
+      "average_stars": 627.7,
+      "total_stars": 62770
+    },
+    {
       "date": "2026-11-08",
       "total_count": 100,
       "top_language": "TypeScript",

@@ -61,7 +61,7 @@ async function loadHistory() {
         }
     } catch (error) {
         console.log('No history file found, will create on first run');
-        document.getElementById('dateSelect').innerHTML = '<option value="">暂无数据</option>';
+        document.getElementById('dateSelect').innerHTML = '<option value="">no data</option>';
     }
 }
 
@@ -84,7 +84,7 @@ async function loadLatestData() {
         applyFilters();
         
         document.getElementById('updateTime').textContent = 
-            `最后更新: ${formatDateTime(data.generated_at)}`;
+            `last_update: ${formatDateTime(data.generated_at)}`;
     } catch (error) {
         console.error('Error loading data:', error);
         showNoResults('暂无数据', '请运行数据采集任务以生成项目列表');
@@ -110,7 +110,7 @@ async function loadDateData(date) {
         applyFilters();
         
         document.getElementById('updateTime').textContent = 
-            `最后更新: ${formatDateTime(data.generated_at)}`;
+            `last_update: ${formatDateTime(data.generated_at)}`;
     } catch (error) {
         console.error('Error loading date data:', error);
         showNoResults('加载失败', `无法加载 ${date} 的数据`);
@@ -137,8 +137,14 @@ async function refreshData() {
 // 更新统计信息
 function updateStats(data) {
     document.getElementById('totalCount').textContent = data.total_count || 0;
-    document.getElementById('topLanguage').textContent = 
-        (data.language_distribution ? Object.keys(data.language_distribution)[0] : '-') || '-';
+    const langCounts = {};
+    data.repositories.forEach(repo => {
+        if (repo.language) {
+            langCounts[repo.language] = (langCounts[repo.language] || 0) + 1;
+        }
+    });
+    const topLang = Object.keys(langCounts).sort((a, b) => langCounts[b] - langCounts[a])[0];
+    document.getElementById('topLanguage').textContent = topLang || '-';
     document.getElementById('totalStars').textContent = 
         formatNumber(data.repositories.reduce((sum, repo) => sum + repo.stars, 0));
     document.getElementById('avgStars').textContent = 
@@ -157,7 +163,7 @@ function populateLanguageFilter() {
     const languageFilter = document.getElementById('languageFilter');
     const currentValue = languageFilter.value;
     
-    languageFilter.innerHTML = '<option value="all">全部语言</option>';
+    languageFilter.innerHTML = '<option value="all">all</option>';
     
     Array.from(languages).sort().forEach(lang => {
         const option = document.createElement('option');
@@ -217,37 +223,39 @@ function renderProjects() {
 function createProjectCard(project) {
     const topics = project.topics && project.topics.length > 0
         ? `<div class="project-topics">
-            ${project.topics.slice(0, 5).map(topic => 
-                `<a href="https://github.com/topics/${topic}" target="_blank" class="topic-tag">${topic}</a>`
+            ${project.topics.slice(0, 5).map(topic =>
+                `<a href="https://github.com/topics/${encodeURIComponent(topic)}" target="_blank" rel="noopener" class="topic-tag">#${escapeHtml(topic)}</a>`
             ).join('')}
            </div>`
         : '';
-    
-    const homepage = project.homepage 
-        ? `<div class="meta-item">🌐 <a href="${project.homepage}" target="_blank">主页</a></div>`
+
+    const homepage = project.homepage && /^https?:\/\//i.test(project.homepage)
+        ? `<div class="meta-item">&rarr; <a href="${escapeHtml(project.homepage)}" target="_blank" rel="noopener">homepage</a></div>`
         : '';
-    
+
+    const rank = String(project.rank).padStart(2, '0');
+
     return `
         <div class="project-card">
             <div class="project-header">
-                <div class="project-rank">${project.rank}</div>
+                <div class="project-rank">${rank}</div>
                 <div class="project-title">
-                    <h2><a href="${project.html_url}" target="_blank">${project.full_name}</a></h2>
+                    <h2><a href="${escapeHtml(project.html_url)}" target="_blank" rel="noopener">${escapeHtml(project.full_name)}</a></h2>
                     <div class="project-meta">
-                        <span class="badge badge-language">${project.language || 'Unknown'}</span>
-                        <span class="badge badge-score">Score: ${project.score}</span>
-                        <div class="meta-item">📅 ${formatRelativeTime(project.created_at)}</div>
+                        <span class="badge badge-language">${escapeHtml(project.language || 'Unknown')}</span>
+                        <span class="badge badge-score">score=${project.score}</span>
+                        <div class="meta-item">created: ${formatRelativeTime(project.created_at)}</div>
                         ${homepage}
                     </div>
                 </div>
             </div>
             <p class="project-description">${escapeHtml(project.description || '暂无描述')}</p>
             <div class="project-stats">
-                <div class="stat-item">⭐ ${formatNumber(project.stars)} stars</div>
-                <div class="stat-item">📈 ${project.stars_per_day} stars/day</div>
-                <div class="stat-item">🍴 ${formatNumber(project.forks)} forks</div>
-                <div class="stat-item">👁️ ${formatNumber(project.watchers)} watchers</div>
-                <div class="stat-item">📜 ${project.license}</div>
+                <div class="stat-item">stars <b>${formatNumber(project.stars)}</b></div>
+                <div class="stat-item hot">stars/day <b>${project.stars_per_day}</b></div>
+                <div class="stat-item">forks <b>${formatNumber(project.forks)}</b></div>
+                <div class="stat-item">watchers <b>${formatNumber(project.watchers)}</b></div>
+                <div class="stat-item">license <b>${escapeHtml(project.license || 'N/A')}</b></div>
             </div>
             ${topics}
         </div>
@@ -258,7 +266,7 @@ function createProjectCard(project) {
 function updatePagination() {
     const totalPages = Math.ceil(filteredProjects.length / projectsPerPage);
     
-    document.getElementById('pageInfo').textContent = `第 ${currentPage} 页 / 共 ${totalPages} 页`;
+    document.getElementById('pageInfo').textContent = `page ${currentPage}/${totalPages}`;
     document.getElementById('prevBtn').disabled = currentPage === 1;
     document.getElementById('nextBtn').disabled = currentPage === totalPages;
     
@@ -275,7 +283,7 @@ function changePage(delta) {
 
 // 显示加载状态
 function showLoading() {
-    document.getElementById('projects').innerHTML = '<div class="loading">加载中...</div>';
+    document.getElementById('projects').innerHTML = '<div class="loading">fetching data</div>';
 }
 
 // 显示无结果
@@ -333,14 +341,14 @@ function formatRelativeTime(dateTimeStr) {
     const diffDays = Math.floor((now - date) / (1000 * 60 * 60 * 24));
     
     if (diffDays === 0) {
-        return '今天创建';
+        return 'today';
     } else if (diffDays === 1) {
-        return '昨天创建';
+        return 'yesterday';
     } else if (diffDays < 7) {
-        return `${diffDays} 天前创建`;
+        return `${diffDays}d ago`;
     } else if (diffDays < 30) {
         const weeks = Math.floor(diffDays / 7);
-        return `${weeks} 周前创建`;
+        return `${weeks}w ago`;
     } else {
         return formatDate(dateTimeStr);
     }

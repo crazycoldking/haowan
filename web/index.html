@@ -3,84 +3,96 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub 好玩项目 - 每日发现</title>
+    <title>~/haowan — GitHub trending, daily</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
         <div class="container">
-            <h1>🚀 GitHub 好玩项目</h1>
-            <p class="subtitle">每日发现 GitHub 上最有趣、最有潜力的开源项目</p>
+            <div class="term-bar">
+                <span class="dot dot-red"></span>
+                <span class="dot dot-yellow"></span>
+                <span class="dot dot-green"></span>
+                <span class="term-title">haowan@github: ~/trending</span>
+            </div>
+            <pre class="logo" aria-hidden="true">
+ _                                  
+| |__   __ _  _____      ____ _ _ __  
+| '_ \ / _` |/ _ \ \ /\ / / _` | '_ \ 
+| | | | (_| | (_) \ V  V / (_| | | | |
+|_| |_|\__,_|\___/ \_/\_/ \__,_|_| |_|</pre>
+            <h1 class="prompt">
+                <span class="ps1">$</span> cat trending --daily
+                <span class="cursor" aria-hidden="true"></span>
+            </h1>
+            <p class="subtitle"># 每日发现 GitHub 上最有趣、最有潜力的开源项目</p>
         </div>
     </header>
 
     <main class="container">
-        <!-- 过滤和搜索 -->
         <section class="filters">
             <div class="filter-group">
-                <label for="dateSelect">日期:</label>
+                <label for="dateSelect">--date</label>
                 <select id="dateSelect">
-                    <option value="">加载中...</option>
+                    <option value="">loading...</option>
                 </select>
-            </div>
-            
-            <div class="filter-group">
-                <label for="languageFilter">语言:</label>
-                <select id="languageFilter">
-                    <option value="all">全部</option>
-                </select>
-            </div>
-            
-            <div class="filter-group">
-                <label for="searchInput">搜索:</label>
-                <input type="text" id="searchInput" placeholder="搜索项目名称或描述...">
             </div>
 
             <div class="filter-group">
-                <button id="refreshBtn" class="btn-refresh">🔄 刷新</button>
+                <label for="languageFilter">--lang</label>
+                <select id="languageFilter">
+                    <option value="all">all</option>
+                </select>
+            </div>
+
+            <div class="filter-group filter-grow">
+                <label for="searchInput">grep</label>
+                <input type="text" id="searchInput" placeholder="name or description..." autocomplete="off" spellcheck="false">
+            </div>
+
+            <div class="filter-group">
+                <button id="refreshBtn" class="btn-refresh">[ reload ]</button>
             </div>
         </section>
 
-        <!-- 统计信息 -->
         <section class="stats" id="stats">
             <div class="stat-card">
                 <h3 id="totalCount">-</h3>
-                <p>项目总数</p>
+                <p>repos</p>
             </div>
             <div class="stat-card">
                 <h3 id="topLanguage">-</h3>
-                <p>最热门语言</p>
+                <p>top_lang</p>
             </div>
             <div class="stat-card">
                 <h3 id="totalStars">-</h3>
-                <p>总 Star 数</p>
+                <p>total_stars</p>
             </div>
             <div class="stat-card">
                 <h3 id="avgStars">-</h3>
-                <p>平均 Star 数</p>
+                <p>avg_stars</p>
             </div>
         </section>
 
-        <!-- 项目列表 -->
         <section class="projects" id="projects">
-            <div class="loading">加载中...</div>
+            <div class="loading">fetching data</div>
         </section>
 
-        <!-- 分页 -->
         <section class="pagination" id="pagination" style="display: none;">
-            <button id="prevBtn" class="btn-page">← 上一页</button>
-            <span id="pageInfo">第 1 页</span>
-            <button id="nextBtn" class="btn-page">下一页 →</button>
+            <button id="prevBtn" class="btn-page">&lt; prev</button>
+            <span id="pageInfo">page 1</span>
+            <button id="nextBtn" class="btn-page">next &gt;</button>
         </section>
     </main>
 
     <footer>
         <div class="container">
             <p>
-                数据来源: <a href="https://github.com" target="_blank">GitHub API</a> | 
-                项目地址: <a href="https://github.com/crazycoldking/haowan" target="_blank">GitHub</a>
+                source: <a href="https://github.com" target="_blank" rel="noopener">GitHub API</a>
+                <span class="sep">|</span>
+                repo: <a href="https://github.com/crazycoldking/haowan" target="_blank" rel="noopener">crazycoldking/haowan</a>
             </p>
-            <p class="update-time" id="updateTime">最后更新: -</p>
+            <p class="update-time" id="updateTime">last_update: -</p>
         </div>
     </footer>
 

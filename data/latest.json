@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "generated_at": "2026-11-09T03:38:41.574107",
+  "generated_at": "2026-11-09T03:53:24.957474",
   "total_count": 100,
   "repositories": [
     {
@@ -11,19 +11,19 @@
       "html_url": "https://github.com/tangerineturtle1/NX2navi",
       "description": null,
       "language": "C",
-      "stars": 1436,
-      "forks": 67,
-      "watchers": 1436,
-      "open_issues": 187,
+      "stars": 1444,
+      "forks": 68,
+      "watchers": 1444,
+      "open_issues": 186,
       "topics": [],
       "created_at": "2026-11-07T10:01:23Z",
-      "updated_at": "2026-11-09T03:38:34Z",
+      "updated_at": "2026-11-09T03:52:59Z",
       "pushed_at": "2026-11-08T20:52:18Z",
       "homepage": null,
       "license": "MIT License",
       "days_since_creation": 1,
-      "stars_per_day": 1436.0,
-      "score": 81.16,
+      "stars_per_day": 1444.0,
+      "score": 81.18,
       "rank": 1
     },
     {
@@ -34,19 +34,19 @@
       "html_url": "https://github.com/NotRexed/Hookshot",
       "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
       "language": "C++",
-      "stars": 3264,
+      "stars": 3275,
       "forks": 312,
-      "watchers": 3264,
+      "watchers": 3275,
       "open_issues": 411,
       "topics": [],
       "created_at": "2026-11-05T12:18:58Z",
-      "updated_at": "2026-11-09T03:35:32Z",
-      "pushed_at": "2026-11-09T02:44:07Z",
+      "updated_at": "2026-11-09T03:53:15Z",
+      "pushed_at": "2026-11-09T03:51:31Z",
       "homepage": "",
       "license": "GNU General Public License v3.0",
       "days_since_creation": 3,
-      "stars_per_day": 1088.0,
-      "score": 81.05,
+      "stars_per_day": 1091.67,
+      "score": 81.06,
       "rank": 2
     },
     {
@@ -57,19 +57,19 @@
       "html_url": "https://github.com/JenkinWoo/sheeridVerify",
       "description": null,
       "language": "JavaScript",
-      "stars": 1875,
-      "forks": 1001,
-      "watchers": 1875,
+      "stars": 1876,
+      "forks": 1003,
+      "watchers": 1876,
       "open_issues": 0,
       "topics": [],
       "created_at": "2026-11-06T09:28:09Z",
-      "updated_at": "2026-11-09T03:37:43Z",
+      "updated_at": "2026-11-09T03:38:36Z",
       "pushed_at": "2026-11-06T09:54:37Z",
       "homepage": null,
       "license": "ISC License",
       "days_since_creation": 2,
-      "stars_per_day": 937.5,
-      "score": 80.19,
+      "stars_per_day": 938.0,
+      "score": 80.2,
       "rank": 3
     },
     {
@@ -80,19 +80,19 @@
       "html_url": "https://github.com/Th0rgal/satmux",
       "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
       "language": "Python",
-      "stars": 948,
+      "stars": 950,
       "forks": 44,
-      "watchers": 948,
+      "watchers": 950,
       "open_issues": 0,
       "topics": [],
       "created_at": "2026-11-07T16:09:41Z",
-      "updated_at": "2026-11-09T03:28:17Z",
+      "updated_at": "2026-11-09T03:44:39Z",
       "pushed_at": "2026-11-07T16:26:20Z",
       "homepage": null,
       "license": "MIT License",
       "days_since_creation": 1,
-      "stars_per_day": 948.0,
-      "score": 79.33,
+      "stars_per_day": 950.0,
+      "score": 79.35,
       "rank": 4
     },
     {
@@ -103,19 +103,19 @@
       "html_url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
       "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
       "language": "Python",
-      "stars": 3276,
-      "forks": 1207,
-      "watchers": 3276,
+      "stars": 3278,
+      "forks": 1206,
+      "watchers": 3278,
       "open_issues": 26,
       "topics": [],
       "created_at": "2026-11-04T14:54:56Z",
-      "updated_at": "2026-11-09T03:37:16Z",
+      "updated_at": "2026-11-09T03:47:24Z",
       "pushed_at": "2026-11-06T03:52:06Z",
       "homepage": null,
       "license": "None",
       "days_since_creation": 4,
-      "stars_per_day": 819.0,
-      "score": 78.79,
+      "stars_per_day": 819.5,
+      "score": 78.8,
       "rank": 5
     },
     {
@@ -126,9 +126,9 @@
       "html_url": "https://github.com/KKKKhazix/agent-autoloop",
       "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
       "language": "TypeScript",
-      "stars": 4149,
+      "stars": 4152,
       "forks": 753,
-      "watchers": 4149,
+      "watchers": 4152,
       "open_issues": 7,
       "topics": [
         "ai-agents",
@@ -144,12 +144,12 @@
         "workflow"
       ],
       "created_at": "2026-11-03T08:02:11Z",
-      "updated_at": "2026-11-09T03:33:12Z",
+      "updated_at": "2026-11-09T03:52:22Z",
       "pushed_at": "2026-11-09T01:14:42Z",
       "homepage": "",
       "license": "MIT License",
       "days_since_creation": 5,
-      "stars_per_day": 829.8,
+      "stars_per_day": 830.4,
       "score": 76.49,
       "rank": 6
     },
@@ -161,10 +161,10 @@
       "html_url": "https://github.com/Minireel/HGhub",
       "description": "YellowFruit third-party client",
       "language": "TypeScript",
-      "stars": 3641,
-      "forks": 1472,
-      "watchers": 3641,
-      "open_issues": 5,
+      "stars": 3671,
+      "forks": 1479,
+      "watchers": 3671,
+      "open_issues": 6,
       "topics": [
         "android",
         "drama",
@@ -174,13 +174,13 @@
         "windows"
       ],
       "created_at": "2026-11-03T14:04:27Z",
-      "updated_at": "2026-11-09T03:38:03Z",
+      "updated_at": "2026-11-09T03:52:56Z",
       "pushed_at": "2026-11-09T02:09:10Z",
       "homepage": "",
       "license": "Other",
       "days_since_creation": 5,
-      "stars_per_day": 728.2,
-      "score": 75.41,
+      "stars_per_day": 734.2,
+      "score": 75.48,
       "rank": 7
     },
     {
@@ -191,19 +191,19 @@
       "html_url": "https://github.com/sostenesfreitas/ocarina-recomp",
       "description": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
       "language": "C",
-      "stars": 981,
+      "stars": 983,
       "forks": 62,
-      "watchers": 981,
+      "watchers": 983,
       "open_issues": 96,
       "topics": [],
       "created_at": "2026-11-06T22:24:03Z",
-      "updated_at": "2026-11-09T03:35:51Z",
+      "updated_at": "2026-11-09T03:52:28Z",
       "pushed_at": "2026-11-09T01:48:51Z",
       "homepage": "",
       "license": "GNU General Public License v3.0",
       "days_since_creation": 2,
-      "stars_per_day": 490.5,
-      "score": 74.88,
+      "stars_per_day": 491.5,
+      "score": 74.9,
       "rank": 8
     },
     {
@@ -214,19 +214,19 @@
       "html_url": "https://github.com/DIYgod/pinky",
       "description": "Let AI agents use your phone, with you in the loop.",
       "language": "Go",
-      "stars": 954,
-      "forks": 83,
-      "watchers": 954,
+      "stars": 961,
+      "forks": 90,
+      "watchers": 961,
       "open_issues": 12,
       "topics": [],
       "created_at": "2026-11-06T16:53:14Z",
-      "updated_at": "2026-11-09T03:36:34Z",
+      "updated_at": "2026-11-09T03:51:34Z",
       "pushed_at": "2026-11-09T02:08:08Z",
       "homepage": null,
       "license": "Apache License 2.0",
       "days_since_creation": 2,
-      "stars_per_day": 477.0,
-      "score": 74.65,
+      "stars_per_day": 480.5,
+      "score": 74.71,
       "rank": 9
     },
     {
@@ -237,10 +237,10 @@
       "html_url": "https://github.com/jhaizhou-ops/S2Arm",
       "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
       "language": "C#",
-      "stars": 632,
-      "forks": 145,
-      "watchers": 632,
-      "open_issues": 47,
+      "stars": 654,
+      "forks": 147,
+      "watchers": 654,
+      "open_issues": 51,
       "topics": [
         "apple-silicon",
         "arm64",
@@ -254,13 +254,13 @@
         "switch"
       ],
       "created_at": "2026-11-08T05:49:46Z",
-      "updated_at": "2026-11-09T03:38:10Z",
-      "pushed_at": "2026-11-09T03:38:27Z",
+      "updated_at": "2026-11-09T03:53:03Z",
+      "pushed_at": "2026-11-09T03:47:26Z",
       "homepage": "https://github.com/jhaizhou-ops/S2Arm/releases",
       "license": "Apache License 2.0",
       "days_since_creation": 1,
-      "stars_per_day": 632.0,
-      "score": 74.01,
+      "stars_per_day": 654.0,
+      "score": 74.29,
       "rank": 10
     },
     {
@@ -271,19 +271,19 @@
       "html_url": "https://github.com/mmdoctor/google-pro-helper",
       "description": null,
       "language": "Python",
-      "stars": 1258,
-      "forks": 449,
-      "watchers": 1258,
+      "stars": 1259,
+      "forks": 450,
+      "watchers": 1259,
       "open_issues": 1,
       "topics": [],
       "created_at": "2026-11-05T04:52:28Z",
-      "updated_at": "2026-11-09T03:37:47Z",
+      "updated_at": "2026-11-09T03:41:02Z",
       "pushed_at": "2026-11-05T09:41:40Z",
       "homepage": null,
       "license": "None",
       "days_since_creation": 3,
-      "stars_per_day": 419.33,
-      "score": 73.6,
+      "stars_per_day": 419.67,
+      "score": 73.61,
       "rank": 11
     },
     {
@@ -311,8 +311,8 @@
         "vulkan"
       ],
       "created_at": "2026-11-05T22:37:07Z",
-      "updated_at": "2026-11-09T03:36:49Z",
-      "pushed_at": "2026-11-07T20:54:07Z",
+      "updated_at": "2026-11-09T03:43:19Z",
+      "pushed_at": "2026-11-09T03:43:46Z",
       "homepage": "https://voyager.so/vork",
       "license": "Other",
       "days_since_creation": 3,
@@ -328,19 +328,19 @@
       "html_url": "https://github.com/sarpstar/cinecode",
       "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
       "language": "Python",
-      "stars": 1631,
+      "stars": 1634,
       "forks": 296,
-      "watchers": 1631,
+      "watchers": 1634,
       "open_issues": 7,
       "topics": [],
       "created_at": "2026-11-03T10:08:16Z",
-      "updated_at": "2026-11-09T03:26:15Z",
+      "updated_at": "2026-11-09T03:44:13Z",
       "pushed_at": "2026-11-03T15:21:18Z",
       "homepage": null,
       "license": "MIT License",
       "days_since_creation": 5,
-      "stars_per_day": 326.2,
-      "score": 70.83,
+      "stars_per_day": 326.8,
+      "score": 70.85,
       "rank": 13
     },
     {
@@ -351,19 +351,19 @@
       "html_url": "https://github.com/WoYun520/gif-factory",
       "description": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
       "language": "Python",
-      "stars": 891,
-      "forks": 106,
-      "watchers": 891,
+      "stars": 894,
+      "forks": 108,
+      "watchers": 894,
       "open_issues": 1,
       "topics": [],
       "created_at": "2026-11-05T04:08:24Z",
-      "updated_at": "2026-11-09T03:36:21Z",
+      "updated_at": "2026-11-09T03:52:38Z",
       "pushed_at": "2026-11-08T11:44:48Z",
       "homepage": null,
       "license": "MIT License",
       "days_since_creation": 3,
-      "stars_per_day": 297.0,
-      "score": 70.78,
+      "stars_per_day": 298.0,
+      "score": 70.81,
       "rank": 14
     },
     {
@@ -973,50 +973,6 @@
       "rank": 28
     },
     {
-      "id": 1450356118,
-      "name": "anyunlock",
-      "full_name": "Beatzolattice/anyunlock",
-      "owner": "Beatzolattice",
-      "html_url": "https://github.com/Beatzolattice/anyunlock",
-      "description": "Anyunlock 2026: Pre-configured environment for seamless desktop utility workstation deployment.",
-      "language": null,
-      "stars": 400,
-      "forks": 0,
-      "watchers": 400,
-      "open_issues": 0,
-      "topics": [
-        "apple-id-remove",
-        "apple-id-remover",
-        "device-tool",
-        "frp-tool",
-        "guide-setup-anyunlock",
-        "how-to-install-anyunlock",
-        "how-to-setup-anyunlock",
-        "ios-bypass",
-        "ios-find-my-bypass",
-        "ios-jailbreak",
-        "ios-mdm-bypass",
-        "iphone-mdm-remove",
-        "iphone-passcode",
-        "iphone-restore",
-        "lockdown-browser-bypass",
-        "mdm-bypass",
-        "palera1n",
-        "python",
-        "screen-passcode-recovery",
-        "unlocking"
-      ],
-      "created_at": "2026-11-08T14:29:44Z",
-      "updated_at": "2026-11-08T21:49:06Z",
-      "pushed_at": "2026-11-08T14:29:49Z",
-      "homepage": "",
-      "license": "None",
-      "days_since_creation": 1,
-      "stars_per_day": 400.0,
-      "score": 70.26,
-      "rank": 29
-    },
-    {
       "id": 1443759946,
       "name": "terminal-mac",
       "full_name": "govijr/terminal-mac",
@@ -1024,9 +980,9 @@
       "html_url": "https://github.com/govijr/terminal-mac",
       "description": "Entire MacOS running in your terminal.",
       "language": "Swift",
-      "stars": 2403,
+      "stars": 2404,
       "forks": 164,
-      "watchers": 2403,
+      "watchers": 2404,
       "open_issues": 12,
       "topics": [
         "cli",
@@ -1038,14 +994,14 @@
         "tui"
       ],
       "created_at": "2026-11-03T03:22:56Z",
-      "updated_at": "2026-11-09T03:15:18Z",
+      "updated_at": "2026-11-09T03:43:21Z",
       "pushed_at": "2026-11-07T05:58:26Z",
       "homepage": "",
       "license": "MIT License",
       "days_since_creation": 6,
-      "stars_per_day": 400.5,
-      "score": 70.06,
-      "rank": 30
+      "stars_per_day": 400.67,
+      "score": 70.07,
+      "rank": 29
     },
     {
       "id": 1445695976,
@@ -1055,20 +1011,20 @@
       "html_url": "https://github.com/egoist/mygo-music",
       "description": "A native music player you extend with plugins",
       "language": "Go",
-      "stars": 1011,
+      "stars": 1013,
       "forks": 163,
-      "watchers": 1011,
+      "watchers": 1013,
       "open_issues": 74,
       "topics": [],
       "created_at": "2026-11-04T13:27:14Z",
-      "updated_at": "2026-11-09T03:31:42Z",
+      "updated_at": "2026-11-09T03:40:38Z",
       "pushed_at": "2026-11-08T05:50:42Z",
       "homepage": "music.egoist.dev",
       "license": "GNU Affero General Public License v3.0",
       "days_since_creation": 4,
-      "stars_per_day": 252.75,
-      "score": 69.16,
-      "rank": 31
+      "stars_per_day": 253.25,
+      "score": 69.18,
+      "rank": 30
     },
     {
       "id": 1449838890,
@@ -1078,19 +1034,42 @@
       "html_url": "https://github.com/oceanpacificpeace/lichii-shader-sync",
       "description": null,
       "language": "Go",
-      "stars": 273,
+      "stars": 274,
       "forks": 6,
-      "watchers": 273,
+      "watchers": 274,
       "open_issues": 4,
       "topics": [],
       "created_at": "2026-11-08T00:06:23Z",
-      "updated_at": "2026-11-09T03:37:06Z",
+      "updated_at": "2026-11-09T03:48:52Z",
       "pushed_at": "2026-11-08T16:03:01Z",
       "homepage": null,
       "license": "None",
       "days_since_creation": 1,
-      "stars_per_day": 273.0,
-      "score": 69.13,
+      "stars_per_day": 274.0,
+      "score": 69.16,
+      "rank": 31
+    },
+    {
+      "id": 1447408881,
+      "name": "chimera-vocal-synth",
+      "full_name": "jamesondh/chimera-vocal-synth",
+      "owner": "jamesondh",
+      "html_url": "https://github.com/jamesondh/chimera-vocal-synth",
+      "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
+      "language": "Rust",
+      "stars": 719,
+      "forks": 86,
+      "watchers": 719,
+      "open_issues": 12,
+      "topics": [],
+      "created_at": "2026-11-05T19:10:42Z",
+      "updated_at": "2026-11-09T03:51:35Z",
+      "pushed_at": "2026-11-09T03:46:42Z",
+      "homepage": "https://chimera-vocal-synth.vercel.app",
+      "license": "MIT License",
+      "days_since_creation": 3,
+      "stars_per_day": 239.67,
+      "score": 69.02,
       "rank": 32
     },
     {
@@ -1117,29 +1096,6 @@
       "rank": 33
     },
     {
-      "id": 1447408881,
-      "name": "chimera-vocal-synth",
-      "full_name": "jamesondh/chimera-vocal-synth",
-      "owner": "jamesondh",
-      "html_url": "https://github.com/jamesondh/chimera-vocal-synth",
-      "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
-      "language": "Rust",
-      "stars": 711,
-      "forks": 86,
-      "watchers": 711,
-      "open_issues": 12,
-      "topics": [],
-      "created_at": "2026-11-05T19:10:42Z",
-      "updated_at": "2026-11-09T03:35:05Z",
-      "pushed_at": "2026-11-09T02:23:02Z",
-      "homepage": "https://chimera-vocal-synth.vercel.app",
-      "license": "MIT License",
-      "days_since_creation": 3,
-      "stars_per_day": 237.0,
-      "score": 68.93,
-      "rank": 34
-    },
-    {
       "id": 1448920409,
       "name": "phoneuse",
       "full_name": "lxe/phoneuse",
@@ -1147,20 +1103,20 @@
       "html_url": "https://github.com/lxe/phoneuse",
       "description": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
       "language": "Python",
-      "stars": 460,
+      "stars": 461,
       "forks": 47,
-      "watchers": 460,
+      "watchers": 461,
       "open_issues": 8,
       "topics": [],
       "created_at": "2026-11-07T01:28:30Z",
-      "updated_at": "2026-11-09T03:35:53Z",
+      "updated_at": "2026-11-09T03:47:42Z",
       "pushed_at": "2026-11-09T02:48:38Z",
       "homepage": null,
       "license": "MIT License",
       "days_since_creation": 2,
-      "stars_per_day": 230.0,
-      "score": 68.68,
-      "rank": 35
+      "stars_per_day": 230.5,
+      "score": 68.7,
+      "rank": 34
     },
     {
       "id": 1449596949,
@@ -1170,20 +1126,20 @@
       "html_url": "https://github.com/21stware/bowel",
       "description": null,
       "language": "Go",
-      "stars": 251,
+      "stars": 252,
       "forks": 12,
-      "watchers": 251,
+      "watchers": 252,
       "open_issues": 4,
       "topics": [],
       "created_at": "2026-11-07T17:45:52Z",
-      "updated_at": "2026-11-09T03:32:44Z",
+      "updated_at": "2026-11-09T03:46:00Z",
       "pushed_at": "2026-11-08T16:36:17Z",
       "homepage": "https://21stware.github.io/bowel/",
       "license": "Other",
       "days_since_creation": 1,
-      "stars_per_day": 251.0,
-      "score": 68.44,
-      "rank": 36
+      "stars_per_day": 252.0,
+      "score": 68.47,
+      "rank": 35
     },
     {
       "id": 1449966158,
@@ -1215,7 +1171,7 @@
       "days_since_creation": 1,
       "stars_per_day": 306.0,
       "score": 68.06,
-      "rank": 37
+      "rank": 36
     },
     {
       "id": 1447227957,
@@ -1225,9 +1181,9 @@
       "html_url": "https://github.com/IainKay/ram-altman",
       "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
       "language": "Shell",
-      "stars": 808,
+      "stars": 814,
       "forks": 18,
-      "watchers": 808,
+      "watchers": 814,
       "open_issues": 11,
       "topics": [
         "bash",
@@ -1249,14 +1205,14 @@
         "sysadmin"
       ],
       "created_at": "2026-11-05T16:16:41Z",
-      "updated_at": "2026-11-09T03:32:15Z",
+      "updated_at": "2026-11-09T03:50:48Z",
       "pushed_at": "2026-11-06T15:58:11Z",
       "homepage": "https://ram-altman.lol",
       "license": "The Unlicense",
       "days_since_creation": 3,
-      "stars_per_day": 269.33,
-      "score": 67.98,
-      "rank": 38
+      "stars_per_day": 271.33,
+      "score": 68.04,
+      "rank": 37
     },
     {
       "id": 1444005452,
@@ -1266,9 +1222,9 @@
       "html_url": "https://github.com/Sandflow-ai/sand3d",
       "description": "3D modeling in Python, built for LLMs.",
       "language": "HTML",
-      "stars": 1448,
-      "forks": 159,
-      "watchers": 1448,
+      "stars": 1449,
+      "forks": 160,
+      "watchers": 1449,
       "open_issues": 8,
       "topics": [
         "3d",
@@ -1280,14 +1236,14 @@
         "usd"
       ],
       "created_at": "2026-11-03T08:23:03Z",
-      "updated_at": "2026-11-09T03:30:45Z",
+      "updated_at": "2026-11-09T03:43:35Z",
       "pushed_at": "2026-11-06T11:03:55Z",
       "homepage": "https://sandflow.ai/sand3d/",
       "license": "Apache License 2.0",
       "days_since_creation": 5,
-      "stars_per_day": 289.6,
+      "stars_per_day": 289.8,
       "score": 67.86,
-      "rank": 39
+      "rank": 38
     },
     {
       "id": 1450650682,
@@ -1321,7 +1277,7 @@
       "days_since_creation": 1,
       "stars_per_day": 279.0,
       "score": 67.31,
-      "rank": 40
+      "rank": 39
     },
     {
       "id": 1449614389,
@@ -1355,7 +1311,7 @@
       "days_since_creation": 1,
       "stars_per_day": 279.0,
       "score": 67.31,
-      "rank": 41
+      "rank": 40
     },
     {
       "id": 1445112696,
@@ -1387,6 +1343,29 @@
       "days_since_creation": 5,
       "stars_per_day": 269.4,
       "score": 67.27,
+      "rank": 41
+    },
+    {
+      "id": 1443699236,
+      "name": "gjgjxweb",
+      "full_name": "CzJam/gjgjxweb",
+      "owner": "CzJam",
+      "html_url": "https://github.com/CzJam/gjgjxweb",
+      "description": "《搞机工具箱》Web移植版",
+      "language": "HTML",
+      "stars": 1271,
+      "forks": 106,
+      "watchers": 1271,
+      "open_issues": 0,
+      "topics": [],
+      "created_at": "2026-11-03T02:00:54Z",
+      "updated_at": "2026-11-09T03:47:57Z",
+      "pushed_at": "2026-11-07T12:19:22Z",
+      "homepage": "https://czjam.github.io/gjgjxweb/",
+      "license": "GNU General Public License v3.0",
+      "days_since_creation": 6,
+      "stars_per_day": 211.83,
+      "score": 66.85,
       "rank": 42
     },
     {
@@ -1413,29 +1392,6 @@
       "rank": 43
     },
     {
-      "id": 1443699236,
-      "name": "gjgjxweb",
-      "full_name": "CzJam/gjgjxweb",
-      "owner": "CzJam",
-      "html_url": "https://github.com/CzJam/gjgjxweb",
-      "description": "《搞机工具箱》Web移植版",
-      "language": "HTML",
-      "stars": 1266,
-      "forks": 106,
-      "watchers": 1266,
-      "open_issues": 0,
-      "topics": [],
-      "created_at": "2026-11-03T02:00:54Z",
-      "updated_at": "2026-11-09T03:28:32Z",
-      "pushed_at": "2026-11-07T12:19:22Z",
-      "homepage": "https://czjam.github.io/gjgjxweb/",
-      "license": "GNU General Public License v3.0",
-      "days_since_creation": 6,
-      "stars_per_day": 211.0,
-      "score": 66.82,
-      "rank": 44
-    },
-    {
       "id": 1449391270,
       "name": "easycolab",
       "full_name": "wy51ai/easycolab",
@@ -1443,20 +1399,20 @@
       "html_url": "https://github.com/wy51ai/easycolab",
       "description": null,
       "language": "Python",
-      "stars": 190,
+      "stars": 191,
       "forks": 33,
-      "watchers": 190,
+      "watchers": 191,
       "open_issues": 1,
       "topics": [],
       "created_at": "2026-11-07T13:39:37Z",
-      "updated_at": "2026-11-09T03:37:23Z",
+      "updated_at": "2026-11-09T03:50:24Z",
       "pushed_at": "2026-11-08T09:54:49Z",
       "homepage": null,
       "license": "Apache License 2.0",
       "days_since_creation": 1,
-      "stars_per_day": 190.0,
-      "score": 66.16,
-      "rank": 45
+      "stars_per_day": 191.0,
+      "score": 66.21,
+      "rank": 44
     },
     {
       "id": 1447939618,
@@ -1466,10 +1422,10 @@
       "html_url": "https://github.com/devvmhq/devvm",
       "description": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
       "language": "Go",
-      "stars": 417,
+      "stars": 418,
       "forks": 18,
-      "watchers": 417,
-      "open_issues": 7,
+      "watchers": 418,
+      "open_issues": 8,
       "topics": [
         "coding-agent",
         "coding-agents",
@@ -1485,14 +1441,14 @@
         "vm"
       ],
       "created_at": "2026-11-06T07:02:30Z",
-      "updated_at": "2026-11-09T03:11:19Z",
+      "updated_at": "2026-11-09T03:44:46Z",
       "pushed_at": "2026-11-09T00:49:42Z",
       "homepage": "https://devvm.dev",
       "license": "MIT License",
       "days_since_creation": 2,
-      "stars_per_day": 208.5,
-      "score": 65.88,
-      "rank": 46
+      "stars_per_day": 209.0,
+      "score": 65.9,
+      "rank": 45
     },
     {
       "id": 1446546399,
@@ -1502,9 +1458,9 @@
       "html_url": "https://github.com/sassiestrhihno/boxshelf-beta",
       "description": "Boxshelf public beta for Windows, Android (AYN Thor) and Linux / Steam Deck: a TV-style 3D box-art shelf for your emulators, Steam games and media apps.",
       "language": null,
-      "stars": 623,
+      "stars": 625,
       "forks": 16,
-      "watchers": 623,
+      "watchers": 625,
       "open_issues": 15,
       "topics": [
         "android-handheld",
@@ -1518,14 +1474,14 @@
         "steam-deck"
       ],
       "created_at": "2026-11-05T04:50:13Z",
-      "updated_at": "2026-11-09T03:28:03Z",
-      "pushed_at": "2026-11-08T02:10:22Z",
+      "updated_at": "2026-11-09T03:46:17Z",
+      "pushed_at": "2026-11-09T03:46:14Z",
       "homepage": "https://github.com/sassiestrhihno/boxshelf-source",
       "license": "None",
       "days_since_creation": 3,
-      "stars_per_day": 207.67,
-      "score": 65.85,
-      "rank": 47
+      "stars_per_day": 208.33,
+      "score": 65.88,
+      "rank": 46
     },
     {
       "id": 1447145240,
@@ -1555,7 +1511,7 @@
       "days_since_creation": 3,
       "stars_per_day": 205.33,
       "score": 65.76,
-      "rank": 48
+      "rank": 47
     },
     {
       "id": 1443650212,
@@ -1565,20 +1521,20 @@
       "html_url": "https://github.com/shanselman/gputaskman",
       "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
       "language": "Python",
-      "stars": 1104,
+      "stars": 1111,
       "forks": 57,
-      "watchers": 1104,
+      "watchers": 1111,
       "open_issues": 12,
       "topics": [],
       "created_at": "2026-11-03T00:49:34Z",
-      "updated_at": "2026-11-09T03:34:23Z",
+      "updated_at": "2026-11-09T03:52:35Z",
       "pushed_at": "2026-11-09T02:27:04Z",
       "homepage": null,
       "license": "MIT License",
       "days_since_creation": 6,
-      "stars_per_day": 184.0,
-      "score": 65.7,
-      "rank": 49
+      "stars_per_day": 185.17,
+      "score": 65.75,
+      "rank": 48
     },
     {
       "id": 1446569267,
@@ -1588,9 +1544,9 @@
       "html_url": "https://github.com/AtomIllusionistDwell/watson-username-footprint-finder",
       "description": "Free people-search desktop app: look up a nickname, email, phone or site across 3,100+ public pages and get one readable report.",
       "language": "TypeScript",
-      "stars": 559,
+      "stars": 560,
       "forks": 75,
-      "watchers": 559,
+      "watchers": 560,
       "open_issues": 0,
       "topics": [
         "digital-footprint",
@@ -1604,14 +1560,14 @@
         "windows"
       ],
       "created_at": "2026-11-05T05:20:24Z",
-      "updated_at": "2026-11-09T03:33:51Z",
+      "updated_at": "2026-11-09T03:48:31Z",
       "pushed_at": "2026-11-08T14:09:43Z",
       "homepage": "https://watsonfind.icu",
       "license": "MIT License",
       "days_since_creation": 3,
-      "stars_per_day": 186.33,
-      "score": 64.96,
-      "rank": 50
+      "stars_per_day": 186.67,
+      "score": 64.98,
+      "rank": 49
     },
     {
       "id": 1446771275,
@@ -1621,20 +1577,20 @@
       "html_url": "https://github.com/v1ktorrr0x/antigravity-filter-bypass",
       "description": null,
       "language": "Python",
-      "stars": 423,
+      "stars": 425,
       "forks": 80,
-      "watchers": 423,
+      "watchers": 425,
       "open_issues": 0,
       "topics": [],
       "created_at": "2026-11-05T09:05:21Z",
-      "updated_at": "2026-11-09T03:31:01Z",
+      "updated_at": "2026-11-09T03:49:34Z",
       "pushed_at": "2026-11-06T06:28:19Z",
       "homepage": null,
       "license": "None",
       "days_since_creation": 3,
-      "stars_per_day": 141.0,
-      "score": 64.68,
-      "rank": 51
+      "stars_per_day": 141.67,
+      "score": 64.72,
+      "rank": 50
     },
     {
       "id": 1449349157,
@@ -1644,20 +1600,20 @@
       "html_url": "https://github.com/Goblinmine/homelab-diagram",
       "description": "Renders an r/homelab-style network diagram from a YAML inventory (Python → SVG/PNG). Written with Claude.",
       "language": "Python",
-      "stars": 155,
+      "stars": 156,
       "forks": 14,
-      "watchers": 155,
+      "watchers": 156,
       "open_issues": 0,
       "topics": [],
       "created_at": "2026-11-07T12:45:46Z",
-      "updated_at": "2026-11-09T02:56:20Z",
+      "updated_at": "2026-11-09T03:52:52Z",
       "pushed_at": "2026-11-07T12:51:26Z",
       "homepage": null,
       "license": "MIT License",
       "days_since_creation": 1,
-      "stars_per_day": 155.0,
-      "score": 64.5,
-      "rank": 52
+      "stars_per_day": 156.0,
+      "score": 64.55,
+      "rank": 51
     },
     {
       "id": 1447125601,
@@ -1667,9 +1623,9 @@
       "html_url": "https://github.com/riyadhHDA/wichforks",
       "description": "Use-case guide to Nintendo Switch 2 emulator forks: builds, games, GPUs, Android, and community reports.",
       "language": "Python",
-      "stars": 525,
+      "stars": 524,
       "forks": 5,
-      "watchers": 525,
+      "watchers": 524,
       "open_issues": 5,
       "topics": [
         "compatibility",
@@ -1679,14 +1635,14 @@
         "switch-2"
       ],
       "created_at": "2026-11-05T14:47:29Z",
-      "updated_at": "2026-11-09T03:14:48Z",
+      "updated_at": "2026-11-09T03:50:28Z",
       "pushed_at": "2026-11-07T18:00:59Z",
       "homepage": null,
       "license": "MIT License",
       "days_since_creation": 3,
-      "stars_per_day": 175.0,
-      "score": 64.45,
-      "rank": 53
+      "stars_per_day": 174.67,
+      "score": 64.44,
+      "rank": 52
     },
     {
       "id": 1450123809,
@@ -1696,20 +1652,20 @@
       "html_url": "https://github.com/danyuchn/claude-work-mode",
       "description": "Session work modes for Claude Code: /work-mode auto | out | wrap, with optional gates",
       "language": "TypeScript",
-      "stars": 150,
-      "forks": 9,
-      "watchers": 150,
+      "stars": 152,
+      "forks": 10,
+      "watchers": 152,
       "open_issues": 0,
       "topics": [],
       "created_at": "2026-11-08T08:58:43Z",
-      "updated_at": "2026-11-09T03:19:15Z",
+      "updated_at": "2026-11-09T03:52:56Z",
       "pushed_at": "2026-11-08T12:28:41Z",
       "homepage": null,
       "license": "MIT License",
       "days_since_creation": 1,
-      "stars_per_day": 150.0,
-      "score": 64.23,
-      "rank": 54
+      "stars_per_day": 152.0,
+      "score": 64.34,
+      "rank": 53
     },
     {
       "id": 1448640918,
@@ -1740,7 +1696,7 @@
       "days_since_creation": 2,
       "stars_per_day": 169.5,
       "score": 64.18,
-      "rank": 55
+      "rank": 54
     },
     {
       "id": 1448746680,
@@ -1779,7 +1735,7 @@
       "days_since_creation": 2,
       "stars_per_day": 166.5,
       "score": 64.04,
-      "rank": 56
+      "rank": 55
     },
     {
       "id": 1448719287,
@@ -1811,7 +1767,7 @@
       "days_since_creation": 2,
       "stars_per_day": 166.0,
       "score": 64.01,
-      "rank": 57
+      "rank": 56
     },
     {
       "id": 1448760766,
@@ -1853,7 +1809,7 @@
       "days_since_creation": 2,
       "stars_per_day": 166.0,
       "score": 64.01,
-      "rank": 58
+      "rank": 57
     },
     {
       "id": 1448752369,
@@ -1897,7 +1853,7 @@
       "days_since_creation": 2,
       "stars_per_day": 166.0,
       "score": 64.01,
-      "rank": 59
+      "rank": 58
     },
     {
       "id": 1448744840,
@@ -1936,7 +1892,7 @@
       "days_since_creation": 2,
       "stars_per_day": 166.0,
       "score": 64.01,
-      "rank": 60
+      "rank": 59
     },
     {
       "id": 1448758081,
@@ -1967,7 +1923,7 @@
       "days_since_creation": 2,
       "stars_per_day": 166.0,
       "score": 64.01,
-      "rank": 61
+      "rank": 60
     },
     {
       "id": 1448754711,
@@ -2009,7 +1965,7 @@
       "days_since_creation": 2,
       "stars_per_day": 166.0,
       "score": 64.01,
-      "rank": 62
+      "rank": 61
     },
     {
       "id": 1448760991,
@@ -2047,7 +2003,7 @@
       "days_since_creation": 2,
       "stars_per_day": 166.0,
       "score": 64.01,
-      "rank": 63
+      "rank": 62
     },
     {
       "id": 1448736193,
@@ -2089,7 +2045,7 @@
       "days_since_creation": 2,
       "stars_per_day": 166.0,
       "score": 64.01,
-      "rank": 64
+      "rank": 63
     },
     {
       "id": 1448760018,
@@ -2133,7 +2089,7 @@
       "days_since_creation": 2,
       "stars_per_day": 166.0,
       "score": 64.01,
-      "rank": 65
+      "rank": 64
     },
     {
       "id": 1448760488,
@@ -2177,7 +2133,7 @@
       "days_since_creation": 2,
       "stars_per_day": 166.0,
       "score": 64.01,
-      "rank": 66
+      "rank": 65
     },
     {
       "id": 1448736717,
@@ -2220,7 +2176,7 @@
       "days_since_creation": 2,
       "stars_per_day": 166.0,
       "score": 64.01,
-      "rank": 67
+      "rank": 66
     },
     {
       "id": 1448739227,
@@ -2263,7 +2219,7 @@
       "days_since_creation": 2,
       "stars_per_day": 166.0,
       "score": 64.01,
-      "rank": 68
+      "rank": 67
     },
     {
       "id": 1448722579,
@@ -2305,7 +2261,7 @@
       "days_since_creation": 2,
       "stars_per_day": 166.0,
       "score": 64.01,
-      "rank": 69
+      "rank": 68
     },
     {
       "id": 1448728360,
@@ -2339,7 +2295,7 @@
       "days_since_creation": 2,
       "stars_per_day": 166.0,
       "score": 64.01,
-      "rank": 70
+      "rank": 69
     },
     {
       "id": 1448736272,
@@ -2382,7 +2338,7 @@
       "days_since_creation": 2,
       "stars_per_day": 166.0,
       "score": 64.01,
-      "rank": 71
+      "rank": 70
     },
     {
       "id": 1448736961,
@@ -2426,7 +2382,7 @@
       "days_since_creation": 2,
       "stars_per_day": 166.0,
       "score": 64.01,
-      "rank": 72
+      "rank": 71
     },
     {
       "id": 1448751207,
@@ -2470,7 +2426,7 @@
       "days_since_creation": 2,
       "stars_per_day": 166.0,
       "score": 64.01,
-      "rank": 73
+      "rank": 72
     },
     {
       "id": 1448746909,
@@ -2514,7 +2470,7 @@
       "days_since_creation": 2,
       "stars_per_day": 166.0,
       "score": 64.01,
-      "rank": 74
+      "rank": 73
     },
     {
       "id": 1448762870,
@@ -2557,7 +2513,7 @@
       "days_since_creation": 2,
       "stars_per_day": 166.0,
       "score": 64.01,
-      "rank": 75
+      "rank": 74
     },
     {
       "id": 1448738290,
@@ -2601,7 +2557,7 @@
       "days_since_creation": 2,
       "stars_per_day": 166.0,
       "score": 64.01,
-      "rank": 76
+      "rank": 75
     },
     {
       "id": 1448745513,
@@ -2641,7 +2597,7 @@
       "days_since_creation": 2,
       "stars_per_day": 166.0,
       "score": 64.01,
-      "rank": 77
+      "rank": 76
     },
     {
       "id": 1448760087,
@@ -2678,7 +2634,7 @@
       "days_since_creation": 2,
       "stars_per_day": 166.0,
       "score": 64.01,
-      "rank": 78
+      "rank": 77
     },
     {
       "id": 1448763320,
@@ -2720,7 +2676,7 @@
       "days_since_creation": 2,
       "stars_per_day": 166.0,
       "score": 64.01,
-      "rank": 79
+      "rank": 78
     },
     {
       "id": 1448731208,
@@ -2759,7 +2715,7 @@
       "days_since_creation": 2,
       "stars_per_day": 166.0,
       "score": 64.01,
-      "rank": 80
+      "rank": 79
     },
     {
       "id": 1448719234,
@@ -2801,7 +2757,7 @@
       "days_since_creation": 2,
       "stars_per_day": 165.5,
       "score": 63.99,
-      "rank": 81
+      "rank": 80
     },
     {
       "id": 1448730375,
@@ -2840,6 +2796,29 @@
       "days_since_creation": 2,
       "stars_per_day": 165.5,
       "score": 63.99,
+      "rank": 81
+    },
+    {
+      "id": 1447014328,
+      "name": "ray-sticker-shop",
+      "full_name": "imraywang/ray-sticker-shop",
+      "owner": "imraywang",
+      "html_url": "https://github.com/imraywang/ray-sticker-shop",
+      "description": "一张照片或角色图，生成一整套形象一致的动态表情包和微信投稿素材（Claude Code / Codex skill）",
+      "language": "Python",
+      "stars": 386,
+      "forks": 41,
+      "watchers": 386,
+      "open_issues": 1,
+      "topics": [],
+      "created_at": "2026-11-05T13:09:01Z",
+      "updated_at": "2026-11-09T03:42:00Z",
+      "pushed_at": "2026-11-05T13:09:07Z",
+      "homepage": null,
+      "license": "MIT License",
+      "days_since_creation": 3,
+      "stars_per_day": 128.67,
+      "score": 63.94,
       "rank": 82
     },
     {
@@ -2875,29 +2854,6 @@
       "rank": 83
     },
     {
-      "id": 1447014328,
-      "name": "ray-sticker-shop",
-      "full_name": "imraywang/ray-sticker-shop",
-      "owner": "imraywang",
-      "html_url": "https://github.com/imraywang/ray-sticker-shop",
-      "description": "一张照片或角色图，生成一整套形象一致的动态表情包和微信投稿素材（Claude Code / Codex skill）",
-      "language": "Python",
-      "stars": 385,
-      "forks": 41,
-      "watchers": 385,
-      "open_issues": 1,
-      "topics": [],
-      "created_at": "2026-11-05T13:09:01Z",
-      "updated_at": "2026-11-09T03:04:15Z",
-      "pushed_at": "2026-11-05T13:09:07Z",
-      "homepage": null,
-      "license": "MIT License",
-      "days_since_creation": 3,
-      "stars_per_day": 128.33,
-      "score": 63.92,
-      "rank": 84
-    },
-    {
       "id": 1448889325,
       "name": "finallyshell",
       "full_name": "TooonyChen/finallyshell",
@@ -2905,10 +2861,10 @@
       "html_url": "https://github.com/TooonyChen/finallyshell",
       "description": "类finalshell的ssh客户端 // An source-available finalshell copy, with go runtime and mygo UI",
       "language": "Go",
-      "stars": 312,
+      "stars": 321,
       "forks": 31,
-      "watchers": 312,
-      "open_issues": 9,
+      "watchers": 321,
+      "open_issues": 11,
       "topics": [
         "finalshell",
         "libghostty",
@@ -2918,14 +2874,14 @@
         "terminal"
       ],
       "created_at": "2026-11-07T00:34:42Z",
-      "updated_at": "2026-11-09T03:37:24Z",
-      "pushed_at": "2026-11-09T03:13:12Z",
+      "updated_at": "2026-11-09T03:51:29Z",
+      "pushed_at": "2026-11-09T03:48:09Z",
       "homepage": "",
       "license": "Other",
       "days_since_creation": 2,
-      "stars_per_day": 156.0,
-      "score": 63.5,
-      "rank": 85
+      "stars_per_day": 160.5,
+      "score": 63.74,
+      "rank": 84
     },
     {
       "id": 1450676295,
@@ -2957,7 +2913,7 @@
       "days_since_creation": 1,
       "stars_per_day": 175.0,
       "score": 63.49,
-      "rank": 86
+      "rank": 85
     },
     {
       "id": 1449277762,
@@ -2980,7 +2936,7 @@
       "days_since_creation": 1,
       "stars_per_day": 137.0,
       "score": 63.49,
-      "rank": 87
+      "rank": 86
     },
     {
       "id": 1449224922,
@@ -3011,7 +2967,7 @@
       "days_since_creation": 1,
       "stars_per_day": 173.0,
       "score": 63.4,
-      "rank": 88
+      "rank": 87
     },
     {
       "id": 1448553198,
@@ -3034,7 +2990,7 @@
       "days_since_creation": 2,
       "stars_per_day": 119.0,
       "score": 63.29,
-      "rank": 89
+      "rank": 88
     },
     {
       "id": 1445339624,
@@ -3044,20 +3000,20 @@
       "html_url": "https://github.com/CityPulso/PulsoIcon",
       "description": "Animated React icons — every Lucide icon plus extra icons and brand logos, each with its own hand-written motion. Drop-in replacement for lucide-react, built on Motion.",
       "language": "Kotlin",
-      "stars": 486,
+      "stars": 487,
       "forks": 13,
-      "watchers": 486,
+      "watchers": 487,
       "open_issues": 0,
       "topics": [],
       "created_at": "2026-11-04T08:07:13Z",
-      "updated_at": "2026-11-09T03:34:34Z",
+      "updated_at": "2026-11-09T03:51:53Z",
       "pushed_at": "2026-11-08T03:58:54Z",
       "homepage": null,
       "license": "Other",
       "days_since_creation": 4,
-      "stars_per_day": 121.5,
-      "score": 63.17,
-      "rank": 90
+      "stars_per_day": 121.75,
+      "score": 63.19,
+      "rank": 89
     },
     {
       "id": 1449061181,
@@ -3080,7 +3036,7 @@
       "days_since_creation": 1,
       "stars_per_day": 131.0,
       "score": 63.12,
-      "rank": 91
+      "rank": 90
     },
     {
       "id": 1447768703,
@@ -3112,7 +3068,7 @@
       "days_since_creation": 3,
       "stars_per_day": 102.0,
       "score": 62.75,
-      "rank": 92
+      "rank": 91
     },
     {
       "id": 1446725477,
@@ -3122,9 +3078,9 @@
       "html_url": "https://github.com/yappologistic/CUI",
       "description": "Native UI components for C: about 150 of them, with spring motion and full keyboard support. Windows, macOS and Linux, no dependencies.",
       "language": "C",
-      "stars": 423,
+      "stars": 426,
       "forks": 20,
-      "watchers": 423,
+      "watchers": 426,
       "open_issues": 12,
       "topics": [
         "c",
@@ -3135,14 +3091,14 @@
         "ui-components"
       ],
       "created_at": "2026-11-05T08:18:08Z",
-      "updated_at": "2026-11-09T03:37:47Z",
-      "pushed_at": "2026-11-09T03:33:29Z",
+      "updated_at": "2026-11-09T03:49:06Z",
+      "pushed_at": "2026-11-09T03:49:02Z",
       "homepage": null,
       "license": "MIT License",
       "days_since_creation": 3,
-      "stars_per_day": 141.0,
-      "score": 62.68,
-      "rank": 93
+      "stars_per_day": 142.0,
+      "score": 62.74,
+      "rank": 92
     },
     {
       "id": 1450034522,
@@ -3165,7 +3121,7 @@
       "days_since_creation": 1,
       "stars_per_day": 124.0,
       "score": 62.67,
-      "rank": 94
+      "rank": 93
     },
     {
       "id": 1446725818,
@@ -3195,7 +3151,7 @@
       "days_since_creation": 3,
       "stars_per_day": 140.67,
       "score": 62.67,
-      "rank": 95
+      "rank": 94
     },
     {
       "id": 1447704610,
@@ -3218,7 +3174,7 @@
       "days_since_creation": 3,
       "stars_per_day": 105.67,
       "score": 62.33,
-      "rank": 96
+      "rank": 95
     },
     {
       "id": 1446613379,
@@ -3250,7 +3206,7 @@
       "days_since_creation": 3,
       "stars_per_day": 132.0,
       "score": 62.15,
-      "rank": 97
+      "rank": 96
     },
     {
       "id": 1446578592,
@@ -3283,7 +3239,59 @@
       "days_since_creation": 3,
       "stars_per_day": 131.0,
       "score": 62.08,
+      "rank": 97
+    },
+    {
+      "id": 1449770510,
+      "name": "fefw-recomp",
+      "full_name": "Goldoire/fefw-recomp",
+      "owner": "Goldoire",
+      "html_url": "https://github.com/Goldoire/fefw-recomp",
+      "description": "Native Windows PC port of Fire Emblem: Fortune's Weave by static recompilation. Bring your own dump; no game files included.",
+      "language": "C++",
+      "stars": 145,
+      "forks": 6,
+      "watchers": 145,
+      "open_issues": 18,
+      "topics": [
+        "pc-port",
+        "recompilation",
+        "static-recompilation",
+        "vulkan",
+        "windows"
+      ],
+      "created_at": "2026-11-07T21:58:07Z",
+      "updated_at": "2026-11-09T03:53:11Z",
+      "pushed_at": "2026-11-09T00:14:04Z",
+      "homepage": "",
+      "license": "GNU General Public License v3.0",
+      "days_since_creation": 1,
+      "stars_per_day": 145.0,
+      "score": 61.95,
       "rank": 98
+    },
+    {
+      "id": 1448247951,
+      "name": "dsh-plugin-bundle",
+      "full_name": "lili-luo/dsh-plugin-bundle",
+      "owner": "lili-luo",
+      "html_url": "https://github.com/lili-luo/dsh-plugin-bundle",
+      "description": "基于 DeepSeek Harness（DSH）的插件组合包。每个插件在独立子目录里，可以用 `path:` 单独安装。",
+      "language": "JavaScript",
+      "stars": 200,
+      "forks": 16,
+      "watchers": 200,
+      "open_issues": 0,
+      "topics": [],
+      "created_at": "2026-11-06T12:41:28Z",
+      "updated_at": "2026-11-09T03:52:29Z",
+      "pushed_at": "2026-11-07T17:16:44Z",
+      "homepage": null,
+      "license": "MIT License",
+      "days_since_creation": 2,
+      "stars_per_day": 100.0,
+      "score": 61.87,
+      "rank": 99
     },
     {
       "id": 1449965409,
@@ -3315,29 +3323,6 @@
       "days_since_creation": 1,
       "stars_per_day": 143.0,
       "score": 61.84,
-      "rank": 99
-    },
-    {
-      "id": 1448247951,
-      "name": "dsh-plugin-bundle",
-      "full_name": "lili-luo/dsh-plugin-bundle",
-      "owner": "lili-luo",
-      "html_url": "https://github.com/lili-luo/dsh-plugin-bundle",
-      "description": "基于 DeepSeek Harness（DSH）的插件组合包。每个插件在独立子目录里，可以用 `path:` 单独安装。",
-      "language": "JavaScript",
-      "stars": 199,
-      "forks": 16,
-      "watchers": 199,
-      "open_issues": 0,
-      "topics": [],
-      "created_at": "2026-11-06T12:41:28Z",
-      "updated_at": "2026-11-09T03:32:12Z",
-      "pushed_at": "2026-11-07T17:16:44Z",
-      "homepage": null,
-      "license": "MIT License",
-      "days_since_creation": 2,
-      "stars_per_day": 99.5,
-      "score": 61.83,
       "rank": 100
     }
   ]

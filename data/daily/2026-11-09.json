@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "generated_at": "2026-11-09T04:03:17.361431",
+  "generated_at": "2026-11-09T04:08:48.736543",
   "total_count": 100,
   "repositories": [
     {
@@ -11,19 +11,19 @@
       "html_url": "https://github.com/tangerineturtle1/NX2navi",
       "description": null,
       "language": "C",
-      "stars": 1452,
+      "stars": 1456,
       "forks": 68,
-      "watchers": 1452,
-      "open_issues": 186,
+      "watchers": 1456,
+      "open_issues": 187,
       "topics": [],
       "created_at": "2026-11-07T10:01:23Z",
-      "updated_at": "2026-11-09T04:02:41Z",
+      "updated_at": "2026-11-09T04:08:23Z",
       "pushed_at": "2026-11-08T20:52:18Z",
       "homepage": null,
       "license": "MIT License",
       "days_since_creation": 1,
-      "stars_per_day": 1452.0,
-      "score": 81.2,
+      "stars_per_day": 1456.0,
+      "score": 81.21,
       "rank": 1
     },
     {
@@ -34,19 +34,19 @@
       "html_url": "https://github.com/NotRexed/Hookshot",
       "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
       "language": "C++",
-      "stars": 3284,
+      "stars": 3288,
       "forks": 313,
-      "watchers": 3284,
-      "open_issues": 414,
+      "watchers": 3288,
+      "open_issues": 415,
       "topics": [],
       "created_at": "2026-11-05T12:18:58Z",
-      "updated_at": "2026-11-09T04:02:15Z",
+      "updated_at": "2026-11-09T04:06:26Z",
       "pushed_at": "2026-11-09T03:51:31Z",
       "homepage": "",
       "license": "GNU General Public License v3.0",
       "days_since_creation": 3,
-      "stars_per_day": 1094.67,
-      "score": 81.07,
+      "stars_per_day": 1096.0,
+      "score": 81.08,
       "rank": 2
     },
     {
@@ -80,19 +80,19 @@
       "html_url": "https://github.com/Th0rgal/satmux",
       "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
       "language": "Python",
-      "stars": 953,
+      "stars": 954,
       "forks": 44,
-      "watchers": 953,
+      "watchers": 954,
       "open_issues": 0,
       "topics": [],
       "created_at": "2026-11-07T16:09:41Z",
-      "updated_at": "2026-11-09T04:02:32Z",
+      "updated_at": "2026-11-09T04:04:41Z",
       "pushed_at": "2026-11-07T16:26:20Z",
       "homepage": null,
       "license": "MIT License",
       "days_since_creation": 1,
-      "stars_per_day": 953.0,
-      "score": 79.37,
+      "stars_per_day": 954.0,
+      "score": 79.38,
       "rank": 4
     },
     {
@@ -126,9 +126,9 @@
       "html_url": "https://github.com/KKKKhazix/agent-autoloop",
       "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
       "language": "TypeScript",
-      "stars": 4153,
-      "forks": 753,
-      "watchers": 4153,
+      "stars": 4155,
+      "forks": 754,
+      "watchers": 4155,
       "open_issues": 7,
       "topics": [
         "ai-agents",
@@ -144,13 +144,13 @@
         "workflow"
       ],
       "created_at": "2026-11-03T08:02:11Z",
-      "updated_at": "2026-11-09T04:00:02Z",
+      "updated_at": "2026-11-09T04:08:23Z",
       "pushed_at": "2026-11-09T01:14:42Z",
       "homepage": "",
       "license": "MIT License",
       "days_since_creation": 5,
-      "stars_per_day": 830.6,
-      "score": 76.49,
+      "stars_per_day": 831.0,
+      "score": 76.5,
       "rank": 6
     },
     {
@@ -161,9 +161,9 @@
       "html_url": "https://github.com/Minireel/HGhub",
       "description": "YellowFruit third-party client",
       "language": "TypeScript",
-      "stars": 3688,
-      "forks": 1485,
-      "watchers": 3688,
+      "stars": 3700,
+      "forks": 1486,
+      "watchers": 3700,
       "open_issues": 6,
       "topics": [
         "android",
@@ -174,13 +174,13 @@
         "windows"
       ],
       "created_at": "2026-11-03T14:04:27Z",
-      "updated_at": "2026-11-09T04:02:05Z",
+      "updated_at": "2026-11-09T04:08:25Z",
       "pushed_at": "2026-11-09T02:09:10Z",
       "homepage": "",
       "license": "Other",
       "days_since_creation": 5,
-      "stars_per_day": 737.6,
-      "score": 75.52,
+      "stars_per_day": 740.0,
+      "score": 75.55,
       "rank": 7
     },
     {
@@ -191,18 +191,18 @@
       "html_url": "https://github.com/sostenesfreitas/ocarina-recomp",
       "description": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
       "language": "C",
-      "stars": 985,
+      "stars": 986,
       "forks": 62,
-      "watchers": 985,
+      "watchers": 986,
       "open_issues": 97,
       "topics": [],
       "created_at": "2026-11-06T22:24:03Z",
-      "updated_at": "2026-11-09T03:57:25Z",
+      "updated_at": "2026-11-09T04:05:05Z",
       "pushed_at": "2026-11-09T01:48:51Z",
       "homepage": "",
       "license": "GNU General Public License v3.0",
       "days_since_creation": 2,
-      "stars_per_day": 492.5,
+      "stars_per_day": 493.0,
       "score": 74.92,
       "rank": 8
     },
@@ -214,19 +214,19 @@
       "html_url": "https://github.com/DIYgod/pinky",
       "description": "Let AI agents use your phone, with you in the loop.",
       "language": "Go",
-      "stars": 969,
-      "forks": 92,
-      "watchers": 969,
+      "stars": 977,
+      "forks": 95,
+      "watchers": 977,
       "open_issues": 12,
       "topics": [],
       "created_at": "2026-11-06T16:53:14Z",
-      "updated_at": "2026-11-09T04:01:56Z",
+      "updated_at": "2026-11-09T04:08:37Z",
       "pushed_at": "2026-11-09T02:08:08Z",
       "homepage": null,
       "license": "Apache License 2.0",
       "days_since_creation": 2,
-      "stars_per_day": 484.5,
-      "score": 74.78,
+      "stars_per_day": 488.5,
+      "score": 74.85,
       "rank": 9
     },
     {
@@ -237,10 +237,10 @@
       "html_url": "https://github.com/jhaizhou-ops/S2Arm",
       "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
       "language": "C#",
-      "stars": 670,
-      "forks": 150,
-      "watchers": 670,
-      "open_issues": 58,
+      "stars": 684,
+      "forks": 151,
+      "watchers": 684,
+      "open_issues": 55,
       "topics": [
         "apple-silicon",
         "arm64",
@@ -254,13 +254,13 @@
         "switch"
       ],
       "created_at": "2026-11-08T05:49:46Z",
-      "updated_at": "2026-11-09T04:03:03Z",
-      "pushed_at": "2026-11-09T04:01:38Z",
+      "updated_at": "2026-11-09T04:08:26Z",
+      "pushed_at": "2026-11-09T04:08:18Z",
       "homepage": "https://github.com/jhaizhou-ops/S2Arm/releases",
       "license": "Apache License 2.0",
       "days_since_creation": 1,
-      "stars_per_day": 670.0,
-      "score": 74.48,
+      "stars_per_day": 684.0,
+      "score": 74.65,
       "rank": 10
     },
     {
@@ -294,9 +294,9 @@
       "html_url": "https://github.com/voyager-so/vork",
       "description": "Headless 3D and VFX engine for agents. Research preview.",
       "language": "Rust",
-      "stars": 1159,
+      "stars": 1161,
       "forks": 87,
-      "watchers": 1159,
+      "watchers": 1161,
       "open_issues": 6,
       "topics": [
         "3d",
@@ -311,13 +311,13 @@
         "vulkan"
       ],
       "created_at": "2026-11-05T22:37:07Z",
-      "updated_at": "2026-11-09T04:00:50Z",
+      "updated_at": "2026-11-09T04:08:16Z",
       "pushed_at": "2026-11-09T03:43:46Z",
       "homepage": "https://voyager.so/vork",
       "license": "Other",
       "days_since_creation": 3,
-      "stars_per_day": 386.33,
-      "score": 70.93,
+      "stars_per_day": 387.0,
+      "score": 70.95,
       "rank": 12
     },
     {
@@ -342,29 +342,6 @@
       "stars_per_day": 327.2,
       "score": 70.86,
       "rank": 13
-    },
-    {
-      "id": 1446515117,
-      "name": "gif-factory",
-      "full_name": "WoYun520/gif-factory",
-      "owner": "WoYun520",
-      "html_url": "https://github.com/WoYun520/gif-factory",
-      "description": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
-      "language": "Python",
-      "stars": 895,
-      "forks": 108,
-      "watchers": 895,
-      "open_issues": 1,
-      "topics": [],
-      "created_at": "2026-11-05T04:08:24Z",
-      "updated_at": "2026-11-09T04:02:43Z",
-      "pushed_at": "2026-11-08T11:44:48Z",
-      "homepage": null,
-      "license": "MIT License",
-      "days_since_creation": 3,
-      "stars_per_day": 298.33,
-      "score": 70.82,
-      "rank": 14
     },
     {
       "id": 1450110035,
@@ -408,7 +385,7 @@
       "days_since_creation": 1,
       "stars_per_day": 402.0,
       "score": 70.3,
-      "rank": 15
+      "rank": 14
     },
     {
       "id": 1450110429,
@@ -452,7 +429,7 @@
       "days_since_creation": 1,
       "stars_per_day": 402.0,
       "score": 70.3,
-      "rank": 16
+      "rank": 15
     },
     {
       "id": 1450113144,
@@ -496,7 +473,7 @@
       "days_since_creation": 1,
       "stars_per_day": 401.0,
       "score": 70.28,
-      "rank": 17
+      "rank": 16
     },
     {
       "id": 1450112690,
@@ -536,7 +513,7 @@
       "days_since_creation": 1,
       "stars_per_day": 401.0,
       "score": 70.28,
-      "rank": 18
+      "rank": 17
     },
     {
       "id": 1450111705,
@@ -580,7 +557,7 @@
       "days_since_creation": 1,
       "stars_per_day": 401.0,
       "score": 70.28,
-      "rank": 19
+      "rank": 18
     },
     {
       "id": 1450110037,
@@ -624,7 +601,7 @@
       "days_since_creation": 1,
       "stars_per_day": 401.0,
       "score": 70.28,
-      "rank": 20
+      "rank": 19
     },
     {
       "id": 1450110029,
@@ -668,7 +645,7 @@
       "days_since_creation": 1,
       "stars_per_day": 401.0,
       "score": 70.28,
-      "rank": 21
+      "rank": 20
     },
     {
       "id": 1450110381,
@@ -712,7 +689,7 @@
       "days_since_creation": 1,
       "stars_per_day": 401.0,
       "score": 70.28,
-      "rank": 22
+      "rank": 21
     },
     {
       "id": 1450111631,
@@ -756,7 +733,7 @@
       "days_since_creation": 1,
       "stars_per_day": 400.0,
       "score": 70.26,
-      "rank": 23
+      "rank": 22
     },
     {
       "id": 1450110019,
@@ -796,7 +773,7 @@
       "days_since_creation": 1,
       "stars_per_day": 400.0,
       "score": 70.26,
-      "rank": 24
+      "rank": 23
     },
     {
       "id": 1450112905,
@@ -840,7 +817,7 @@
       "days_since_creation": 1,
       "stars_per_day": 400.0,
       "score": 70.26,
-      "rank": 25
+      "rank": 24
     },
     {
       "id": 1450111548,
@@ -884,7 +861,7 @@
       "days_since_creation": 1,
       "stars_per_day": 400.0,
       "score": 70.26,
-      "rank": 26
+      "rank": 25
     },
     {
       "id": 1450113073,
@@ -926,7 +903,7 @@
       "days_since_creation": 1,
       "stars_per_day": 400.0,
       "score": 70.26,
-      "rank": 27
+      "rank": 26
     },
     {
       "id": 1450356128,
@@ -970,7 +947,7 @@
       "days_since_creation": 1,
       "stars_per_day": 400.0,
       "score": 70.26,
-      "rank": 28
+      "rank": 27
     },
     {
       "id": 1443759946,
@@ -1001,7 +978,7 @@
       "days_since_creation": 6,
       "stars_per_day": 400.83,
       "score": 70.07,
-      "rank": 29
+      "rank": 28
     },
     {
       "id": 1445695976,
@@ -1024,7 +1001,7 @@
       "days_since_creation": 4,
       "stars_per_day": 254.0,
       "score": 69.2,
-      "rank": 30
+      "rank": 29
     },
     {
       "id": 1449838890,
@@ -1047,7 +1024,7 @@
       "days_since_creation": 1,
       "stars_per_day": 275.0,
       "score": 69.19,
-      "rank": 31
+      "rank": 30
     },
     {
       "id": 1447408881,
@@ -1057,20 +1034,20 @@
       "html_url": "https://github.com/jamesondh/chimera-vocal-synth",
       "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
       "language": "Rust",
-      "stars": 721,
-      "forks": 87,
-      "watchers": 721,
+      "stars": 724,
+      "forks": 86,
+      "watchers": 724,
       "open_issues": 12,
       "topics": [],
       "created_at": "2026-11-05T19:10:42Z",
-      "updated_at": "2026-11-09T03:59:07Z",
+      "updated_at": "2026-11-09T04:06:03Z",
       "pushed_at": "2026-11-09T03:46:42Z",
       "homepage": "https://chimera-vocal-synth.vercel.app",
       "license": "MIT License",
       "days_since_creation": 3,
-      "stars_per_day": 240.33,
-      "score": 69.05,
-      "rank": 32
+      "stars_per_day": 241.33,
+      "score": 69.08,
+      "rank": 31
     },
     {
       "id": 1449551905,
@@ -1093,7 +1070,7 @@
       "days_since_creation": 1,
       "stars_per_day": 267.0,
       "score": 68.95,
-      "rank": 33
+      "rank": 32
     },
     {
       "id": 1448920409,
@@ -1103,20 +1080,20 @@
       "html_url": "https://github.com/lxe/phoneuse",
       "description": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
       "language": "Python",
-      "stars": 462,
+      "stars": 464,
       "forks": 48,
-      "watchers": 462,
+      "watchers": 464,
       "open_issues": 8,
       "topics": [],
       "created_at": "2026-11-07T01:28:30Z",
-      "updated_at": "2026-11-09T03:56:19Z",
+      "updated_at": "2026-11-09T04:05:20Z",
       "pushed_at": "2026-11-09T02:48:38Z",
       "homepage": null,
       "license": "MIT License",
       "days_since_creation": 2,
-      "stars_per_day": 231.0,
-      "score": 68.72,
-      "rank": 34
+      "stars_per_day": 232.0,
+      "score": 68.75,
+      "rank": 33
     },
     {
       "id": 1449596949,
@@ -1126,19 +1103,42 @@
       "html_url": "https://github.com/21stware/bowel",
       "description": null,
       "language": "Go",
-      "stars": 254,
+      "stars": 257,
       "forks": 12,
-      "watchers": 254,
+      "watchers": 257,
       "open_issues": 4,
       "topics": [],
       "created_at": "2026-11-07T17:45:52Z",
-      "updated_at": "2026-11-09T03:56:44Z",
+      "updated_at": "2026-11-09T04:07:39Z",
       "pushed_at": "2026-11-08T16:36:17Z",
       "homepage": "https://21stware.github.io/bowel/",
       "license": "Other",
       "days_since_creation": 1,
-      "stars_per_day": 254.0,
-      "score": 68.54,
+      "stars_per_day": 257.0,
+      "score": 68.63,
+      "rank": 34
+    },
+    {
+      "id": 1446515117,
+      "name": "gif-factory",
+      "full_name": "WoYun520/gif-factory",
+      "owner": "WoYun520",
+      "html_url": "https://github.com/WoYun520/gif-factory",
+      "description": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
+      "language": "Python",
+      "stars": 898,
+      "forks": 108,
+      "watchers": 898,
+      "open_issues": 1,
+      "topics": [],
+      "created_at": "2026-11-05T04:08:24Z",
+      "updated_at": "2026-11-09T04:06:23Z",
+      "pushed_at": "2026-11-08T11:44:48Z",
+      "homepage": null,
+      "license": "MIT License",
+      "days_since_creation": 4,
+      "stars_per_day": 224.5,
+      "score": 68.19,
       "rank": 35
     },
     {
@@ -1149,9 +1149,9 @@
       "html_url": "https://github.com/IainKay/ram-altman",
       "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
       "language": "Shell",
-      "stars": 818,
+      "stars": 819,
       "forks": 18,
-      "watchers": 818,
+      "watchers": 819,
       "open_issues": 11,
       "topics": [
         "bash",
@@ -1173,13 +1173,13 @@
         "sysadmin"
       ],
       "created_at": "2026-11-05T16:16:41Z",
-      "updated_at": "2026-11-09T04:02:48Z",
+      "updated_at": "2026-11-09T04:07:10Z",
       "pushed_at": "2026-11-06T15:58:11Z",
       "homepage": "https://ram-altman.lol",
       "license": "The Unlicense",
       "days_since_creation": 3,
-      "stars_per_day": 272.67,
-      "score": 68.08,
+      "stars_per_day": 273.0,
+      "score": 68.09,
       "rank": 36
     },
     {
@@ -1353,19 +1353,19 @@
       "html_url": "https://github.com/CzJam/gjgjxweb",
       "description": "《搞机工具箱》Web移植版",
       "language": "HTML",
-      "stars": 1274,
+      "stars": 1276,
       "forks": 107,
-      "watchers": 1274,
+      "watchers": 1276,
       "open_issues": 0,
       "topics": [],
       "created_at": "2026-11-03T02:00:54Z",
-      "updated_at": "2026-11-09T04:01:12Z",
+      "updated_at": "2026-11-09T04:07:31Z",
       "pushed_at": "2026-11-07T12:19:22Z",
       "homepage": "https://czjam.github.io/gjgjxweb/",
       "license": "GNU General Public License v3.0",
       "days_since_creation": 6,
-      "stars_per_day": 212.33,
-      "score": 66.87,
+      "stars_per_day": 212.67,
+      "score": 66.88,
       "rank": 42
     },
     {
@@ -1376,19 +1376,19 @@
       "html_url": "https://github.com/majorminorlabs/hermes-voice",
       "description": "Talk to a Hermes Agent profile through Home Assistant Assist",
       "language": "Python",
-      "stars": 549,
+      "stars": 550,
       "forks": 35,
-      "watchers": 549,
+      "watchers": 550,
       "open_issues": 8,
       "topics": [],
       "created_at": "2026-11-05T05:28:37Z",
-      "updated_at": "2026-11-09T03:23:42Z",
+      "updated_at": "2026-11-09T04:06:36Z",
       "pushed_at": "2026-11-08T23:07:57Z",
       "homepage": null,
       "license": "MIT License",
       "days_since_creation": 3,
-      "stars_per_day": 183.0,
-      "score": 66.82,
+      "stars_per_day": 183.33,
+      "score": 66.83,
       "rank": 43
     },
     {
@@ -1399,19 +1399,19 @@
       "html_url": "https://github.com/wy51ai/easycolab",
       "description": null,
       "language": "Python",
-      "stars": 191,
+      "stars": 192,
       "forks": 34,
-      "watchers": 191,
+      "watchers": 192,
       "open_issues": 2,
       "topics": [],
       "created_at": "2026-11-07T13:39:37Z",
-      "updated_at": "2026-11-09T03:50:24Z",
+      "updated_at": "2026-11-09T04:07:57Z",
       "pushed_at": "2026-11-08T09:54:49Z",
       "homepage": null,
       "license": "Apache License 2.0",
       "days_since_creation": 1,
-      "stars_per_day": 191.0,
-      "score": 66.21,
+      "stars_per_day": 192.0,
+      "score": 66.25,
       "rank": 44
     },
     {
@@ -1484,6 +1484,29 @@
       "rank": 46
     },
     {
+      "id": 1443650212,
+      "name": "gputaskman",
+      "full_name": "shanselman/gputaskman",
+      "owner": "shanselman",
+      "html_url": "https://github.com/shanselman/gputaskman",
+      "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
+      "language": "Python",
+      "stars": 1114,
+      "forks": 57,
+      "watchers": 1114,
+      "open_issues": 12,
+      "topics": [],
+      "created_at": "2026-11-03T00:49:34Z",
+      "updated_at": "2026-11-09T04:08:23Z",
+      "pushed_at": "2026-11-09T02:27:04Z",
+      "homepage": null,
+      "license": "MIT License",
+      "days_since_creation": 6,
+      "stars_per_day": 185.67,
+      "score": 65.77,
+      "rank": 47
+    },
+    {
       "id": 1447145240,
       "name": "poki",
       "full_name": "JosssphZhou/poki",
@@ -1494,7 +1517,7 @@
       "stars": 617,
       "forks": 126,
       "watchers": 617,
-      "open_issues": 19,
+      "open_issues": 20,
       "topics": [
         "ai-agents",
         "automation",
@@ -1505,35 +1528,12 @@
       ],
       "created_at": "2026-11-05T15:04:31Z",
       "updated_at": "2026-11-09T03:59:45Z",
-      "pushed_at": "2026-11-09T03:06:10Z",
+      "pushed_at": "2026-11-09T04:07:08Z",
       "homepage": "https://poki.bot",
       "license": "GNU Affero General Public License v3.0",
       "days_since_creation": 3,
       "stars_per_day": 205.67,
       "score": 65.77,
-      "rank": 47
-    },
-    {
-      "id": 1443650212,
-      "name": "gputaskman",
-      "full_name": "shanselman/gputaskman",
-      "owner": "shanselman",
-      "html_url": "https://github.com/shanselman/gputaskman",
-      "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
-      "language": "Python",
-      "stars": 1113,
-      "forks": 57,
-      "watchers": 1113,
-      "open_issues": 12,
-      "topics": [],
-      "created_at": "2026-11-03T00:49:34Z",
-      "updated_at": "2026-11-09T04:02:52Z",
-      "pushed_at": "2026-11-09T02:27:04Z",
-      "homepage": null,
-      "license": "MIT License",
-      "days_since_creation": 6,
-      "stars_per_day": 185.5,
-      "score": 65.76,
       "rank": 48
     },
     {
@@ -1600,19 +1600,19 @@
       "html_url": "https://github.com/Goblinmine/homelab-diagram",
       "description": "Renders an r/homelab-style network diagram from a YAML inventory (Python → SVG/PNG). Written with Claude.",
       "language": "Python",
-      "stars": 156,
+      "stars": 157,
       "forks": 14,
-      "watchers": 156,
+      "watchers": 157,
       "open_issues": 0,
       "topics": [],
       "created_at": "2026-11-07T12:45:46Z",
-      "updated_at": "2026-11-09T03:52:52Z",
+      "updated_at": "2026-11-09T04:05:18Z",
       "pushed_at": "2026-11-07T12:51:26Z",
       "homepage": null,
       "license": "MIT License",
       "days_since_creation": 1,
-      "stars_per_day": 156.0,
-      "score": 64.55,
+      "stars_per_day": 157.0,
+      "score": 64.6,
       "rank": 51
     },
     {
@@ -2861,9 +2861,9 @@
       "html_url": "https://github.com/TooonyChen/finallyshell",
       "description": "类finalshell的ssh客户端 // An source-available finalshell copy, with go runtime and mygo UI",
       "language": "Go",
-      "stars": 324,
-      "forks": 31,
-      "watchers": 324,
+      "stars": 326,
+      "forks": 32,
+      "watchers": 326,
       "open_issues": 10,
       "topics": [
         "finalshell",
@@ -2874,13 +2874,13 @@
         "terminal"
       ],
       "created_at": "2026-11-07T00:34:42Z",
-      "updated_at": "2026-11-09T04:02:59Z",
-      "pushed_at": "2026-11-09T04:02:57Z",
+      "updated_at": "2026-11-09T04:06:14Z",
+      "pushed_at": "2026-11-09T04:08:35Z",
       "homepage": "",
       "license": "Other",
       "days_since_creation": 2,
-      "stars_per_day": 162.0,
-      "score": 63.81,
+      "stars_per_day": 163.0,
+      "score": 63.86,
       "rank": 84
     },
     {
@@ -3000,19 +3000,19 @@
       "html_url": "https://github.com/CityPulso/PulsoIcon",
       "description": "Animated React icons — every Lucide icon plus extra icons and brand logos, each with its own hand-written motion. Drop-in replacement for lucide-react, built on Motion.",
       "language": "Kotlin",
-      "stars": 488,
+      "stars": 489,
       "forks": 13,
-      "watchers": 488,
+      "watchers": 489,
       "open_issues": 0,
       "topics": [],
       "created_at": "2026-11-04T08:07:13Z",
-      "updated_at": "2026-11-09T04:00:11Z",
+      "updated_at": "2026-11-09T04:07:38Z",
       "pushed_at": "2026-11-08T03:58:54Z",
       "homepage": null,
       "license": "Other",
       "days_since_creation": 4,
-      "stars_per_day": 122.0,
-      "score": 63.2,
+      "stars_per_day": 122.25,
+      "score": 63.22,
       "rank": 89
     },
     {
@@ -3037,6 +3037,36 @@
       "stars_per_day": 131.0,
       "score": 63.12,
       "rank": 90
+    },
+    {
+      "id": 1446725477,
+      "name": "CUI",
+      "full_name": "yappologistic/CUI",
+      "owner": "yappologistic",
+      "html_url": "https://github.com/yappologistic/CUI",
+      "description": "Native UI components for C: about 150 of them, with spring motion and full keyboard support. Windows, macOS and Linux, no dependencies.",
+      "language": "C",
+      "stars": 427,
+      "forks": 20,
+      "watchers": 427,
+      "open_issues": 12,
+      "topics": [
+        "c",
+        "c99",
+        "cross-platform",
+        "gui",
+        "native",
+        "ui-components"
+      ],
+      "created_at": "2026-11-05T08:18:08Z",
+      "updated_at": "2026-11-09T04:05:32Z",
+      "pushed_at": "2026-11-09T03:55:45Z",
+      "homepage": null,
+      "license": "MIT License",
+      "days_since_creation": 3,
+      "stars_per_day": 142.33,
+      "score": 62.76,
+      "rank": 91
     },
     {
       "id": 1447768703,
@@ -3068,36 +3098,6 @@
       "days_since_creation": 3,
       "stars_per_day": 102.0,
       "score": 62.75,
-      "rank": 91
-    },
-    {
-      "id": 1446725477,
-      "name": "CUI",
-      "full_name": "yappologistic/CUI",
-      "owner": "yappologistic",
-      "html_url": "https://github.com/yappologistic/CUI",
-      "description": "Native UI components for C: about 150 of them, with spring motion and full keyboard support. Windows, macOS and Linux, no dependencies.",
-      "language": "C",
-      "stars": 426,
-      "forks": 20,
-      "watchers": 426,
-      "open_issues": 12,
-      "topics": [
-        "c",
-        "c99",
-        "cross-platform",
-        "gui",
-        "native",
-        "ui-components"
-      ],
-      "created_at": "2026-11-05T08:18:08Z",
-      "updated_at": "2026-11-09T03:55:48Z",
-      "pushed_at": "2026-11-09T03:55:45Z",
-      "homepage": null,
-      "license": "MIT License",
-      "days_since_creation": 3,
-      "stars_per_day": 142.0,
-      "score": 62.74,
       "rank": 92
     },
     {
@@ -3184,9 +3184,9 @@
       "html_url": "https://github.com/Goldoire/fefw-recomp",
       "description": "Native Windows PC port of Fire Emblem: Fortune's Weave by static recompilation. Bring your own dump; no game files included.",
       "language": "C++",
-      "stars": 149,
+      "stars": 150,
       "forks": 6,
-      "watchers": 149,
+      "watchers": 150,
       "open_issues": 18,
       "topics": [
         "pc-port",
@@ -3196,13 +3196,13 @@
         "windows"
       ],
       "created_at": "2026-11-07T21:58:07Z",
-      "updated_at": "2026-11-09T04:02:35Z",
+      "updated_at": "2026-11-09T04:04:50Z",
       "pushed_at": "2026-11-09T00:14:04Z",
       "homepage": "",
       "license": "GNU General Public License v3.0",
       "days_since_creation": 1,
-      "stars_per_day": 149.0,
-      "score": 62.17,
+      "stars_per_day": 150.0,
+      "score": 62.23,
       "rank": 96
     },
     {

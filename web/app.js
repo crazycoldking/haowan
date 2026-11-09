@@ -27,10 +27,19 @@ function setupEventListeners() {
     document.getElementById('nextBtn').addEventListener('click', () => changePage(1));
 }
 
+// Load a data file: deployed site serves it at data/, local repo-root server at ../data/
+async function fetchData(path) {
+    const response = await fetch(`data/${path}`);
+    if (response.ok) {
+        return response;
+    }
+    return fetch(`../data/${path}`);
+}
+
 // 加载历史记录
 async function loadHistory() {
     try {
-        const response = await fetch('../data/history.json');
+        const response = await fetchData('history.json');
         if (!response.ok) {
             throw new Error('History file not found');
         }
@@ -61,7 +70,7 @@ async function loadLatestData() {
     showLoading();
     
     try {
-        const response = await fetch('../data/latest.json');
+        const response = await fetchData('latest.json');
         if (!response.ok) {
             throw new Error('Latest data not found');
         }
@@ -87,7 +96,7 @@ async function loadDateData(date) {
     showLoading();
     
     try {
-        const response = await fetch(`../data/daily/${date}.json`);
+        const response = await fetchData(`daily/${date}.json`);
         if (!response.ok) {
             throw new Error(`Data for ${date} not found`);
         }

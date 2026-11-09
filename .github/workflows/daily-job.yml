@@ -44,6 +44,9 @@ jobs:
           git add data/
           git diff --quiet && git diff --staged --quiet || (git commit -m "🔄 Update trending projects data - $(date +'%Y-%m-%d')" && git push)
       
+      - name: Copy data into web directory
+        run: cp -r data web/data
+
       - name: Upload artifact for GitHub Pages
         uses: actions/upload-pages-artifact@v3
         with:

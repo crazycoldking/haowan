@@ -1,6 +1,30 @@
 {
   "dates": [
     {
+      "date": "2026-11-12",
+      "total_count": 100,
+      "top_language": "HTML",
+      "language_distribution": {
+        "HTML": 35,
+        "TypeScript": 21,
+        "Python": 16,
+        "Go": 9,
+        "JavaScript": 8,
+        "Rust": 4,
+        "C++": 3,
+        "Swift": 2,
+        "C": 1,
+        "C#": 1
+      },
+      "top_repo": {
+        "name": "huamidev/GestaltX",
+        "stars": 6448,
+        "score": 85.24
+      },
+      "average_stars": 962.77,
+      "total_stars": 96277
+    },
+    {
       "date": "2026-11-11",
       "total_count": 100,
       "top_language": "HTML",

@@ -1,6 +1,32 @@
 {
   "dates": [
     {
+      "date": "2026-11-16",
+      "total_count": 100,
+      "top_language": "C++",
+      "language_distribution": {
+        "C++": 40,
+        "Makefile": 14,
+        "null": 11,
+        "Python": 7,
+        "Go": 7,
+        "TypeScript": 6,
+        "Swift": 4,
+        "Rust": 4,
+        "JavaScript": 3,
+        "Kotlin": 2,
+        "Visual Basic .NET": 1,
+        "Java": 1
+      },
+      "top_repo": {
+        "name": "deepseek-ai/chat-demo",
+        "stars": 3290,
+        "score": 81.08
+      },
+      "average_stars": 555.68,
+      "total_stars": 55568
+    },
+    {
       "date": "2026-11-15",
       "total_count": 100,
       "top_language": "Rust",

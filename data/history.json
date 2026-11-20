@@ -1,6 +1,32 @@
 {
   "dates": [
     {
+      "date": "2026-11-20",
+      "total_count": 100,
+      "top_language": "Python",
+      "language_distribution": {
+        "Python": 25,
+        "Go": 17,
+        "Makefile": 15,
+        "JavaScript": 13,
+        "Rust": 11,
+        "null": 6,
+        "C++": 4,
+        "HTML": 2,
+        "C#": 2,
+        "Swift": 2,
+        "TypeScript": 2,
+        "Kotlin": 1
+      },
+      "top_repo": {
+        "name": "krisgfx9/Wireless-Device-Battery-Monitor",
+        "stars": 4735,
+        "score": 82.49
+      },
+      "average_stars": 540.11,
+      "total_stars": 54011
+    },
+    {
       "date": "2026-11-19",
       "total_count": 100,
       "top_language": "Python",

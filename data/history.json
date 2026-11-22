@@ -1,6 +1,33 @@
 {
   "dates": [
     {
+      "date": "2026-11-22",
+      "total_count": 100,
+      "top_language": "C++",
+      "language_distribution": {
+        "C++": 24,
+        "Python": 20,
+        "Jupyter Notebook": 17,
+        "TypeScript": 10,
+        "Rust": 8,
+        "JavaScript": 8,
+        "HTML": 3,
+        "null": 2,
+        "Lean": 2,
+        "C#": 2,
+        "Go": 2,
+        "Dart": 1,
+        "Swift": 1
+      },
+      "top_repo": {
+        "name": "ItsNotRexed/Leonida",
+        "stars": 6744,
+        "score": 87.13
+      },
+      "average_stars": 583.99,
+      "total_stars": 58399
+    },
+    {
       "date": "2026-11-21",
       "total_count": 100,
       "top_language": "Python",

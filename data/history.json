@@ -1,6 +1,33 @@
 {
   "dates": [
     {
+      "date": "2026-11-26",
+      "total_count": 100,
+      "top_language": "Rust",
+      "language_distribution": {
+        "Rust": 29,
+        "Python": 23,
+        "JavaScript": 11,
+        "TypeScript": 11,
+        "C++": 7,
+        "C#": 6,
+        "Lean": 4,
+        "Swift": 2,
+        "Kotlin": 2,
+        "HTML": 2,
+        "C": 1,
+        "Assembly": 1,
+        "Java": 1
+      },
+      "top_repo": {
+        "name": "Marvisak/VIctory",
+        "stars": 12741,
+        "score": 87.87
+      },
+      "average_stars": 846.53,
+      "total_stars": 84653
+    },
+    {
       "date": "2026-11-25",
       "total_count": 100,
       "top_language": "Python",
